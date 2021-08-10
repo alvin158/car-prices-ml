@@ -1,0 +1,784 @@
+Ask Price,Car Model,Brand,Depreciation,Registration Date,Category,Mileage,Images
+239800,A-Class A35 AMG 4MATIC Premium,Mercedes-Benz,21660,06-May-2021,Sports,2730,https://i.i-sgcm.com/cars_used/202106/1008459_small.jpg
+50000,Lancer 1.6A (COE till 08/2029),Mitsubishi,6230,17-Aug-2009,Sedan,128200,https://i.i-sgcm.com/cars_used/202108/1021355_small.jpg
+77800,308 1.6M GTI Turbo Glass Roof (New 10-yr COE),Peugeot,7780,30-Mar-2012,Sports,93300,https://i.i-sgcm.com/cars_used/202108/1021349_small.jpg
+122000,B-Class B200,Mercedes-Benz,15630,21-Mar-2018,Hatchback,3000,https://i.i-sgcm.com/cars_used/202107/1015803_small.jpg
+103000,Harrier 2.0A Turbo M,Toyota,13460,13-Dec-2017,SUV,66000,https://i.i-sgcm.com/cars_used/202107/1010493_small.jpg
+78800,Fit 1.3A,Honda,7870,16-Apr-2021,Hatchback,79,https://i.i-sgcm.com/cars_used/202104/987142_small.jpg
+35800,CLA-Class CLA180 Sport,Mercedes-Benz,22520,30-Dec-2016,Luxury,62828,https://i.i-sgcm.com/cars_used/202106/1008302_small.jpg
+43000,S60 Diesel D4,Volvo,11400,24-Jan-2017,Luxury,69000,https://i.i-sgcm.com/cars_used/202108/1021344_small.jpg
+72800,Space Star 1.2A,Mitsubishi,7920,28-Jul-2017,Hatchback,65450,https://i.i-sgcm.com/cars_used/202107/1014592_small.jpg
+49800,Vezel 1.5A X,Honda,9110,12-Sep-2019,SUV,19896,https://i.i-sgcm.com/cars_used/202105/996273_small.jpg
+80800,Touran Sport 1.4A TSI (New 5-yr COE),Volkswagen,8560,26-Aug-2011,MPV,132000,https://i.i-sgcm.com/cars_used/202105/993478_small.jpg
+42800,Corolla Altis 1.6A (COE till 07/2025),Toyota,7130,13-Jul-2010,Sedan,105000,https://i.i-sgcm.com/cars_used/202108/1021354_small.jpg
+28000,E-Class E250 CGI (COE till 01/2029),Mercedes-Benz,11590,01-Apr-2010,Luxury,132000,https://i.i-sgcm.com/cars_used/202108/1021352_small.jpg
+86800,Colt Version-R 1.5A Turbo (COE till 10/2027),Mitsubishi,8500,06-Nov-2007,Sports,180000,https://i.i-sgcm.com/cars_used/202108/1021351_small.jpg
+62800,Lancer EX 1.6A,Mitsubishi,8990,27-Apr-2017,Sedan,53500,https://i.i-sgcm.com/cars_used/202108/1021346_small.jpg
+58000,Elantra 1.6A GLS,Hyundai,8480,17-Jul-2017,Sedan,75000,https://i.i-sgcm.com/cars_used/202108/1021319_small.jpg
+55988,Forester 2.0i-L Sunroof,Subaru,10690,17-Jan-2017,SUV,64000,https://i.i-sgcm.com/cars_used/202107/1018705_small.jpg
+65988,A4 2.0A TFSI S-tronic,Audi,13350,30-Apr-2019,Luxury,60000,https://i.i-sgcm.com/cars_used/202107/1017431_small.jpg
+122800,Jetta GP 1.4A TSI,Volkswagen,9250,10-Dec-2015,Sedan,71000,https://i.i-sgcm.com/cars_used/202107/1016843_small.jpg
+49988,Shuttle 1.5A G LED Sensing (OPC),Honda,6950,15-Jul-2021,Stationwagon,71,https://i.i-sgcm.com/cars_used/202107/1016808_small.jpg
+72800,Qashqai 1.2A DIG-T,Nissan,10040,26-Sep-2017,SUV,71000,https://i.i-sgcm.com/cars_used/202107/1016550_small.jpg
+68988,Sienta 1.5A G,Toyota,9080,25-Sep-2019,MPV,19000,https://i.i-sgcm.com/cars_used/202107/1013195_small.jpg
+81800,Sharan 2.0A TSI Sunroof,Volkswagen,12970,31-Mar-2015,MPV,80000,https://i.i-sgcm.com/cars_used/202106/1009803_small.jpg
+71988,Forester 2.0i-L Sunroof,Subaru,10650,06-Oct-2017,SUV,49000,https://i.i-sgcm.com/cars_used/202106/1003095_small.jpg
+72500,C-HR Hybrid 1.8A S,Toyota,10570,25-May-2018,SUV,51000,https://i.i-sgcm.com/cars_used/202105/995158_small.jpg
+76988,ES250 Luxury Sunroof,Lexus,16650,16-May-2019,Luxury,24873,https://i.i-sgcm.com/cars_used/202105/994239_small.jpg
+158800,911 Carrera Coupe 3.6A PDK (COE till 03/2030),Porsche,26690,15-Mar-2010,Sports,96534,https://i.i-sgcm.com/cars_used/202104/988347_small.jpg
+229600,Prius Hybrid 1.8A S,Toyota,10820,01-Jul-2019,Hatchback,22000,https://i.i-sgcm.com/cars_used/202104/988330_small.jpg
+95988,Golf R 5DR Sunroof (New 10-yr COE),Volkswagen,10970,08-Feb-2012,Sports,108000,https://i.i-sgcm.com/cars_used/202104/988076_small.jpg
+109800,Astra 1.4A Turbo IntelliLux LED,Opel,9740,02-Nov-2017,Hatchback,51000,https://i.i-sgcm.com/cars_used/202108/1021343_small.jpg
+68800,Martin V8 Vantage S Coupe 4.7A Sportshift II (New 10-yr COE),Aston,24960,15-Mar-2012,Sports,36000,https://i.i-sgcm.com/cars_used/202108/1021342_small.jpg
+249777,GLA-Class GLA200 Urban Edition,Mercedes-Benz,15220,02-Jan-2015,SUV,75000,https://i.i-sgcm.com/cars_used/202108/1021341_small.jpg
+62800,7 Series 740i Sunroof,BMW,23460,17-Dec-2012,Luxury,162000,https://i.i-sgcm.com/cars_used/202108/1021339_small.jpg
+70500,A1 Sportback 1.0A TFSI S-tronic,Audi,10240,11-May-2016,Hatchback,75000,https://i.i-sgcm.com/cars_used/202108/1021335_small.jpg
+51988,Forester 2.0XT Sunroof,Subaru,11520,28-Mar-2017,SUV,109000,https://i.i-sgcm.com/cars_used/202107/1018897_small.jpg
+73988,NV200 1.6A DX,Nissan,6230,05-Aug-2019,Van,22323,https://i.i-sgcm.com/cars_used/202107/1018882_small.jpg
+49800,Huracan LP640-4 Performante,Lamborghini,89270,09-Nov-2018,Sports,13890,https://i.i-sgcm.com/cars_used/202107/1018292_small.jpg
+868800,Gallardo LP550-2 (COE till 03/2030),Lamborghini,31080,28-Dec-2010,Sports,43000,https://i.i-sgcm.com/cars_used/202107/1018179_small.jpg
+268800,Polo GP 1.2A TSI Sunroof,Volkswagen,8330,29-Sep-2017,Hatchback,75000,https://i.i-sgcm.com/cars_used/202107/1017449_small.jpg
+54988,2 Series 218d Active Tourer SE,BMW,11580,07-Jul-2017,Hatchback,60000,https://i.i-sgcm.com/cars_used/202107/1016283_small.jpg
+83800,3 Mild Hybrid 1.5A Astina,Mazda,10300,16-Sep-2019,Sedan,12000,https://i.i-sgcm.com/cars_used/202107/1012608_small.jpg
+92988,ES250 Executive Sunroof,Lexus,16010,22-Mar-2019,Luxury,41273,https://i.i-sgcm.com/cars_used/202107/1011349_small.jpg
+146000,A3 Sportback 1.4A TFSI S-tronic Ambiente,Audi,12510,30-Apr-2015,Hatchback,61000,https://i.i-sgcm.com/cars_used/202107/1010956_small.jpg
+53988,Prius Hybrid 1.8A,Toyota,10840,21-Jul-2017,Hatchback,50000,https://i.i-sgcm.com/cars_used/202107/1010747_small.jpg
+71988,CLA-Class CLA180,Mercedes-Benz,13870,06-Sep-2018,Luxury,18000,https://i.i-sgcm.com/cars_used/202106/1009641_small.jpg
+113988,1 Series 116d,BMW,10930,27-Jul-2018,Hatchback,68000,https://i.i-sgcm.com/cars_used/202106/1009282_small.jpg
+293800,LS460,Lexus,30050,30-Jun-2017,Luxury,59000,https://i.i-sgcm.com/cars_used/202106/1001345_small.jpg
+260800,1 Series 116i,BMW,14040,25-Sep-2013,Hatchback,102000,https://i.i-sgcm.com/cars_used/202105/996046_small.jpg
+41800,6 Series 650i Coupe (New 10-yr COE),BMW,13870,28-Oct-2011,Sports,100458,https://i.i-sgcm.com/cars_used/202104/984647_small.jpg
+138800,G-Class G400d AMG Line 4MATIC Premium,Mercedes-Benz,41820,06-Aug-2021,SUV,652,https://i.i-sgcm.com/cars_used/202102/966303_small.jpg
+504988,Shuttle 1.5A G Sensing,Honda,8750,05-Aug-2021,Stationwagon,652,https://i.i-sgcm.com/cars_used/202108/1021338_small.jpg
+89988,M Series M3 Coupe Competition Package (COE till 08/2029),BMW,18710,05-Feb-2010,Sports,92500,https://i.i-sgcm.com/cars_used/202108/1021337_small.jpg
+151000,5 Series 540i M-Sport,BMW,26940,23-Oct-2017,Luxury,59000,https://i.i-sgcm.com/cars_used/202108/1021336_small.jpg
+214000,NV350 2.5M,Nissan,9560,13-Aug-2014,Van,45043,https://i.i-sgcm.com/cars_used/202108/1021334_small.jpg
+28800,Elantra 1.6A Elite (New 5-yr COE),Hyundai,8390,14-Feb-2012,Sedan,150000,https://i.i-sgcm.com/cars_used/202108/1020020_small.jpg
+41988,Niro Hybrid 1.6A GDi DCT Sunroof,Kia,11710,06-Mar-2017,SUV,121788,https://i.i-sgcm.com/cars_used/202108/1019975_small.jpg
+67800,Polo GP 1.2A TSI Sunroof,Volkswagen,9350,31-Aug-2016,Hatchback,61000,https://i.i-sgcm.com/cars_used/202108/1019919_small.jpg
+50988,Alphard 2.5A Elegance Sunroof,Toyota,19670,30-Nov-2017,MPV,30000,https://i.i-sgcm.com/cars_used/202108/1019859_small.jpg
+151988,2 Series 218i Coupe Sunroof,BMW,14960,27-Aug-2015,Sports,99000,https://i.i-sgcm.com/cars_used/202107/1018814_small.jpg
+72988,Polo 1.2A TSI Sunroof,Volkswagen,8480,15-Dec-2017,Hatchback,47000,https://i.i-sgcm.com/cars_used/202107/1016602_small.jpg
+57000,3 1.5A Sunroof,Mazda,9180,10-Mar-2017,Sedan,60771,https://i.i-sgcm.com/cars_used/202107/1014753_small.jpg
+56800,Elgrand 2.5A Highway Star,Nissan,13720,29-Oct-2014,MPV,81000,https://i.i-sgcm.com/cars_used/202107/1013664_small.jpg
+64988,Cayman 2.7A Tip (COE till 10/2028),Porsche,16370,18-Oct-2008,Sports,98614,https://i.i-sgcm.com/cars_used/202106/1006731_small.jpg
+117800,C-Class C180 Avantgarde,Mercedes-Benz,14970,30-Apr-2018,Luxury,55000,https://i.i-sgcm.com/cars_used/202106/1004644_small.jpg
+122800,C-Class C200 Mild Hybrid AMG Line Premium Night Edition,Mercedes-Benz,16520,06-Aug-2021,Luxury,652,https://i.i-sgcm.com/cars_used/202105/1000080_small.jpg
+198988,1 Series 116d,BMW,11650,21-Apr-2016,Hatchback,70000,https://i.i-sgcm.com/cars_used/202108/1021333_small.jpg
+101800,S-Class S400L,Mercedes-Benz,25800,10-Feb-2015,Luxury,91000,https://i.i-sgcm.com/cars_used/202108/1019549_small.jpg
+17800,3 Series 316i,BMW,16290,21-Jun-2013,Luxury,100000,https://i.i-sgcm.com/cars_used/202106/1009629_small.jpg
+19800,Polo GP 1.2A TSI Sunroof,Volkswagen,8630,29-Sep-2017,Hatchback,63300,https://i.i-sgcm.com/cars_used/202108/1021281_small.jpg
+27800,A-Class Saloon A200 SE,Mercedes-Benz,13420,30-Jul-2021,Luxury,652,https://i.i-sgcm.com/cars_used/202105/991709_small.jpg
+151988,Passat 1.8A TSI (COE till 09/2028),Volkswagen,7440,12-Sep-2008,Luxury,140388,https://i.i-sgcm.com/cars_used/202108/1021331_small.jpg
+52800,i30 1.4A T-GDi DCT Turbo,Hyundai,9480,14-Jan-2020,Hatchback,16000,https://i.i-sgcm.com/cars_used/202107/1014713_small.jpg
+88800,1 Series 118i 5DR Luxury,BMW,12190,26-Nov-2020,Hatchback,7758,https://i.i-sgcm.com/cars_used/202104/989578_small.jpg
+132800,Vios 1.5A G,Toyota,9120,14-Sep-2016,Sedan,75000,https://i.i-sgcm.com/cars_used/202108/1021330_small.jpg
+54800,Cayenne 3.0A Tip,Porsche,36470,03-Aug-2021,SUV,652,https://i.i-sgcm.com/cars_used/202108/1021329_small.jpg
+22800,Jazz 1.3A,Honda,8790,16-Mar-2020,Hatchback,7498,https://i.i-sgcm.com/cars_used/202108/1021327_small.jpg
+78800,Note 1.2A DIG-S,Nissan,9220,21-Jan-2017,Hatchback,59320,https://i.i-sgcm.com/cars_used/202108/1019336_small.jpg
+52800,Sienta 1.5A Standard,Toyota,9700,26-Mar-2019,MPV,39963,https://i.i-sgcm.com/cars_used/202107/1010356_small.jpg
+82800,Cayenne Turbo S 4.8A Tip (COE till 09/2028),Porsche,19310,30-Sep-2008,SUV,54500,https://i.i-sgcm.com/cars_used/202105/992856_small.jpg
+138000,GR Yaris 1.6M Circuit Pack,Toyota,20950,25-May-2021,Sports,3200,https://i.i-sgcm.com/cars_used/202108/1021324_small.jpg
+228888,A-Class A45 AMG 4MATIC+,Mercedes-Benz,25430,06-Aug-2021,Sports,652,https://i.i-sgcm.com/cars_used/202108/1021322_small.jpg
+298988,5 Series 523i (New 10-yr COE),BMW,9970,18-Oct-2011,Luxury,91000,https://i.i-sgcm.com/cars_used/202108/1021318_small.jpg
+99800,Stream 1.8A (COE till 10/2023),Honda,8520,23-Oct-2008,MPV,105693,https://i.i-sgcm.com/cars_used/202108/1021314_small.jpg
+18800,Golf 1.4A TSI Sport (COE till 08/2024),Volkswagen,8880,14-Aug-2009,Hatchback,155000,https://i.i-sgcm.com/cars_used/202108/1019360_small.jpg
+26800,NV350 2.5M,Nissan,8700,11-May-2018,Van,80000,https://i.i-sgcm.com/cars_used/202106/1009697_small.jpg
+58800,5 Series 530i SE,BMW,18490,17-Oct-2017,Luxury,81000,https://i.i-sgcm.com/cars_used/202104/985698_small.jpg
+147000,CLA-Class CLA180,Mercedes-Benz,14350,24-Oct-2016,Luxury,112000,https://i.i-sgcm.com/cars_used/202108/1021326_small.jpg
+87800,Vezel Hybrid 1.5A X,Honda,10640,12-Dec-2017,SUV,56000,https://i.i-sgcm.com/cars_used/202108/1021325_small.jpg
+69988,Panamera 4 3.6A PDK (COE till 04/2029),Porsche,18750,25-Aug-2010,Sports,140000,https://i.i-sgcm.com/cars_used/202105/996307_small.jpg
+26500,S40 2.4I (COE till 08/2024),Volvo,8710,24-Aug-2004,Luxury,77900,https://i.i-sgcm.com/cars_used/202108/1020861_small.jpg
+63800,Grand C4 Picasso Diesel 1.6A BlueHDi Panoramic,Citroen,10850,16-Nov-2016,MPV,76000,https://i.i-sgcm.com/cars_used/202108/1021321_small.jpg
+73888,1 Series 116d,BMW,11860,27-Apr-2017,Hatchback,52800,https://i.i-sgcm.com/cars_used/202108/1021312_small.jpg
+138800,7 Series 740i Sunroof,BMW,78230,15-Nov-2012,Luxury,109000,https://i.i-sgcm.com/cars_used/202108/1021277_small.jpg
+51800,Vezel 1.5A X,Honda,9640,14-Jun-2016,SUV,78399,https://i.i-sgcm.com/cars_used/202108/1021315_small.jpg
+75200,Jazz 1.3A LX,Honda,7980,07-Aug-2020,Hatchback,18000,https://i.i-sgcm.com/cars_used/202107/1018079_small.jpg
+58800,Cerato K3 1.6A Sunroof,Kia,8410,28-Aug-2017,Sedan,102500,https://i.i-sgcm.com/cars_used/202107/1014875_small.jpg
+79800,Civic 1.6A VTi,Honda,9900,10-Aug-2018,Sedan,38200,https://i.i-sgcm.com/cars_used/202107/1011874_small.jpg
+168800,GranTurismo S 4.7A (COE till 04/2031),Maserati,17350,06-Jun-2011,Sports,64000,https://i.i-sgcm.com/cars_used/202108/1021311_small.jpg
+22000,Exora 1.6A M-Line (COE till 08/2024),Proton,7310,11-Aug-2009,MPV,177000,https://i.i-sgcm.com/cars_used/202108/1021310_small.jpg
+56800,A4 1.8A TFSI MU,Audi,12950,12-Feb-2015,Luxury,77000,https://i.i-sgcm.com/cars_used/202108/1021202_small.jpg
+69800,C-Class C180 Avantgarde,Mercedes-Benz,17290,30-Oct-2014,Luxury,70130,https://i.i-sgcm.com/cars_used/202108/1021309_small.jpg
+101800,Alphard 2.5A X Moonroof,Toyota,16800,02-Aug-2016,MPV,65000,https://i.i-sgcm.com/cars_used/202108/1021308_small.jpg
+78688,Corolla Altis 1.6A Standard,Toyota,9700,11-Sep-2018,Sedan,63000,https://i.i-sgcm.com/cars_used/202108/1021306_small.jpg
+121888,5 Series 528i Highline,BMW,17430,18-Nov-2016,Luxury,82888,https://i.i-sgcm.com/cars_used/202108/1021305_small.jpg
+66500,IS250 (COE till 01/2029),Lexus,8880,15-Apr-2009,Luxury,170013,https://i.i-sgcm.com/cars_used/202108/1021302_small.jpg
+97800,Odyssey 2.4A EXV-S Sunroof,Honda,12990,16-Oct-2017,MPV,90000,https://i.i-sgcm.com/cars_used/202107/1018169_small.jpg
+189800,GLB-Class GLB200 AMG Line Premium Plus 7-Seater,Mercedes-Benz,17560,16-Oct-2020,SUV,15000,https://i.i-sgcm.com/cars_used/202106/1003742_small.jpg
+45800,Allion 1.5A (COE till 10/2028),Toyota,6390,06-Oct-2008,Sedan,123000,https://i.i-sgcm.com/cars_used/202108/1021303_small.jpg
+208000,911 Carrera 4S Coupe PDK (COE till 04/2029),Porsche,26900,03-Nov-2009,Sports,87000,https://i.i-sgcm.com/cars_used/202108/1021301_small.jpg
+101800,S4 3.0A TFSI Quattro S-tronic (COE till 08/2030),Audi,11250,24-Aug-2010,Sports,173000,https://i.i-sgcm.com/cars_used/202107/1015543_small.jpg
+85800,Dyna 150 3.0M,Toyota,9260,12-Nov-2020,Truck,20109,https://i.i-sgcm.com/cars_used/202106/1006301_small.jpg
+76800,Prius Alpha Hybrid 1.8A S,Toyota,11850,14-Nov-2017,MPV,52115,https://i.i-sgcm.com/cars_used/202106/1005367_small.jpg
+76800,Prius Alpha Hybrid 1.8A S,Toyota,12170,15-Sep-2017,MPV,73531,https://i.i-sgcm.com/cars_used/202104/987251_small.jpg
+73800,Forester 2.0i-L Sunroof,Subaru,11300,27-Jun-2017,SUV,41663,https://i.i-sgcm.com/cars_used/202103/977788_small.jpg
+77800,3 HB 1.5A Deluxe,Mazda,9320,28-Dec-2018,Hatchback,55000,https://i.i-sgcm.com/cars_used/202108/1021299_small.jpg
+57800,CLA-Class CLA180,Mercedes-Benz,15540,02-Sep-2014,Luxury,142000,https://i.i-sgcm.com/cars_used/202107/1012404_small.jpg
+91800,Civic 1.6A VTi,Honda,10070,20-Sep-2019,Sedan,29400,https://i.i-sgcm.com/cars_used/202106/1000880_small.jpg
+109800,Q2 1.4A TFSI CoD S-tronic,Audi,13080,13-Dec-2018,SUV,20143,https://i.i-sgcm.com/cars_used/202108/1021300_small.jpg
+82800,A-Class A200 Style,Mercedes-Benz,12570,04-Apr-2017,Hatchback,91000,https://i.i-sgcm.com/cars_used/202106/1009185_small.jpg
+82800,Sienta 1.5A Elegance,Toyota,9670,04-Mar-2019,MPV,34660,https://i.i-sgcm.com/cars_used/202106/1001655_small.jpg
+81800,C-HR Hybrid 1.8A S,Toyota,11450,20-Apr-2018,SUV,56214,https://i.i-sgcm.com/cars_used/202105/996726_small.jpg
+145888,6 Series 640i Cabriolet (COE till 04/2031),BMW,14990,09-Jun-2011,Sports,56124,https://i.i-sgcm.com/cars_used/202108/1021297_small.jpg
+252000,CLS-Class CLS350 Coupe Mild Hybrid Sunroof,Mercedes-Benz,25610,17-Dec-2018,Luxury,43633,https://i.i-sgcm.com/cars_used/202108/1021295_small.jpg
+65500,Cerato 1.6A LX,Kia,8050,16-Jan-2019,Sedan,34000,https://i.i-sgcm.com/cars_used/202107/1012766_small.jpg
+32800,Mark X (COE till 06/2026),Toyota,6700,16-Nov-2006,Luxury,168970,https://i.i-sgcm.com/cars_used/202108/1021296_small.jpg
+69800,Hiace 3.0A DX,Toyota,10300,18-May-2018,Van,97000,https://i.i-sgcm.com/cars_used/202107/1017481_small.jpg
+75700,Vellfire 2.4A V (COE till 05/2029),Toyota,9680,10-Jun-2009,MPV,140200,https://i.i-sgcm.com/cars_used/202107/1012342_small.jpg
+55000,Pulsar 1.2A DIG-T Premium,Nissan,8720,23-Jun-2017,Hatchback,18000,https://i.i-sgcm.com/cars_used/202106/1006267_small.jpg
+179800,C-Class C200 Coupe Mild Hybrid AMG Line Premium Sunroof,Mercedes-Benz,19150,15-May-2019,Sports,28200,https://i.i-sgcm.com/cars_used/202106/1004110_small.jpg
+105800,Ateca 1.4A TSI DSG FR,SEAT,10830,27-Nov-2019,SUV,23800,https://i.i-sgcm.com/cars_used/202105/1000285_small.jpg
+133800,6 Series 640i Gran Coupe,BMW,25950,29-Oct-2014,Luxury,60875,https://i.i-sgcm.com/cars_used/202103/974294_small.jpg
+118800,2 Series 216i Gran Tourer,BMW,12090,28-Nov-2019,MPV,30547,https://i.i-sgcm.com/cars_used/202108/1021293_small.jpg
+19000,Stream 1.8A X (COE till 12/2023),Honda,8180,05-Dec-2008,MPV,170000,https://i.i-sgcm.com/cars_used/202108/1021292_small.jpg
+180800,E-Class E250 Avantgarde,Mercedes-Benz,18980,28-Jan-2019,Luxury,59758,https://i.i-sgcm.com/cars_used/202108/1021291_small.jpg
+61800,Jetta GP 1.4A TSI Highline,Volkswagen,9670,27-Oct-2016,Sedan,84846,https://i.i-sgcm.com/cars_used/202108/1021290_small.jpg
+41800,5 Series 520i,BMW,17410,30-Oct-2012,Luxury,149834,https://i.i-sgcm.com/cars_used/202108/1021289_small.jpg
+263888,Gallardo LP560-4 (COE till 03/2029),Lamborghini,34500,19-Aug-2009,Sports,88000,https://i.i-sgcm.com/cars_used/202108/1021288_small.jpg
+69800,Corolla Altis 1.6A Eco,Toyota,10120,04-Oct-2017,Sedan,63000,https://i.i-sgcm.com/cars_used/202108/1021287_small.jpg
+83800,Vezel Hybrid 1.5A X Sensing,Honda,10580,03-Sep-2018,SUV,41000,https://i.i-sgcm.com/cars_used/202108/1021286_small.jpg
+52800,Civic 1.6A VTi-S,Honda,10000,06-Oct-2015,Sedan,90000,https://i.i-sgcm.com/cars_used/202108/1021285_small.jpg
+71800,5 Series 523i (COE till 06/2030),BMW,8080,28-Jun-2010,Luxury,150000,https://i.i-sgcm.com/cars_used/202108/1021284_small.jpg
+19800,Jazz 1.5A L Skyroof (COE till 11/2023),Honda,8740,14-Nov-2008,Hatchback,144000,https://i.i-sgcm.com/cars_used/202108/1021283_small.jpg
+72500,Vios 1.5A E,Toyota,8310,28-Jun-2019,Sedan,22000,https://i.i-sgcm.com/cars_used/202108/1021274_small.jpg
+58800,Focus 1.0A GTDI Titanium,Ford,8110,29-Dec-2017,Sedan,44297,https://i.i-sgcm.com/cars_used/202108/1021263_small.jpg
+73800,Camry 2.5A,Toyota,11360,23-Aug-2016,Luxury,80000,https://i.i-sgcm.com/cars_used/202108/1021261_small.jpg
+64000,1 Series 116d,BMW,11820,28-Jul-2016,Hatchback,49126,https://i.i-sgcm.com/cars_used/202108/1021165_small.jpg
+109800,A1 Sportback 1.0A TFSI S-tronic S-Line,Audi,10670,10-Sep-2020,Hatchback,11300,https://i.i-sgcm.com/cars_used/202108/1020047_small.jpg
+13800,Cerato Forte 1.6A SX,Kia,13070,29-Feb-2012,Sedan,103000,https://i.i-sgcm.com/cars_used/202107/1018979_small.jpg
+53800,3 1.5A Sunroof,Mazda,9580,16-Aug-2016,Sedan,86000,https://i.i-sgcm.com/cars_used/202107/1016474_small.jpg
+54800,Wish 1.8A Elegance,Toyota,10240,28-Sep-2015,MPV,101123,https://i.i-sgcm.com/cars_used/202107/1015152_small.jpg
+49998,A6 2.0A TFSI MU,Audi,14910,22-Jul-2013,Luxury,105913,https://i.i-sgcm.com/cars_used/202107/1014954_small.jpg
+190800,E-Class E300 Coupe AMG Line,Mercedes-Benz,23200,28-Dec-2017,Sports,31300,https://i.i-sgcm.com/cars_used/202106/1008062_small.jpg
+38800,Vios 1.5A J (New 5-yr COE),Toyota,7760,21-Oct-2011,Sedan,158000,https://i.i-sgcm.com/cars_used/202106/1005218_small.jpg
+80800,Jazz 1.3A,Honda,8420,16-Oct-2020,Hatchback,7929,https://i.i-sgcm.com/cars_used/202106/1002893_small.jpg
+55800,Vitara 1.6A GLX,Suzuki,9650,05-Sep-2016,SUV,84000,https://i.i-sgcm.com/cars_used/202106/1002033_small.jpg
+84998,CT Hybrid CT200h Premium (New 10-yr COE),Lexus,8500,02-Aug-2011,Hatchback,119283,https://i.i-sgcm.com/cars_used/202105/997801_small.jpg
+599000,Aventador LP700-4,Lamborghini,616750,11-Apr-2012,Sports,22000,https://i.i-sgcm.com/cars_used/202102/970579_small.jpg
+229900,Land Cruiser 4.6A X,Toyota,20550,27-Nov-2020,SUV,200,https://i.i-sgcm.com/cars_used/202011/948134_small.jpg
+98800,2 Series 216i Gran Tourer Luxury,BMW,11810,15-May-2018,MPV,73000,https://i.i-sgcm.com/cars_used/202108/1021279_small.jpg
+208888,GTR 3.8A (COE till 09/2028),Nissan,29390,15-Sep-2008,Sports,116296,https://i.i-sgcm.com/cars_used/202108/1021223_small.jpg
+108800,C-Class C200 Avantgarde,Mercedes-Benz,16420,18-Nov-2016,Luxury,108000,https://i.i-sgcm.com/cars_used/202108/1019998_small.jpg
+93800,C-Class C180 Avantgarde,Mercedes-Benz,15910,06-May-2016,Luxury,68000,https://i.i-sgcm.com/cars_used/202108/1019994_small.jpg
+75111,Forester 2.0XT Sunroof,Subaru,12940,01-Sep-2016,SUV,40000,https://i.i-sgcm.com/cars_used/202107/1018942_small.jpg
+142800,B-Class B200 Progressive,Mercedes-Benz,15000,23-Oct-2019,Hatchback,22000,https://i.i-sgcm.com/cars_used/202107/1017028_small.jpg
+133000,XC60 T5 Momentum,Volvo,17490,29-Nov-2017,SUV,60000,https://i.i-sgcm.com/cars_used/202107/1015774_small.jpg
+106000,Vellfire 2.5A Z G-Edition,Toyota,18680,24-Dec-2015,MPV,52000,https://i.i-sgcm.com/cars_used/202107/1012912_small.jpg
+59800,HR-V 1.5A LX,Honda,9930,02-Sep-2016,SUV,79914,https://i.i-sgcm.com/cars_used/202107/1011312_small.jpg
+60800,Elantra 1.6A GLS S,Hyundai,8620,18-Dec-2017,Sedan,50000,https://i.i-sgcm.com/cars_used/202107/1011070_small.jpg
+77500,3 HB 1.5A Deluxe,Mazda,9380,28-Nov-2018,Hatchback,30000,https://i.i-sgcm.com/cars_used/202107/1010806_small.jpg
+187888,E-Class E180 Avantgarde,Mercedes-Benz,17060,11-Dec-2020,Luxury,8000,https://i.i-sgcm.com/cars_used/202106/1008324_small.jpg
+71800,Fit 1.3A G F-Package,Honda,8000,25-Mar-2020,Hatchback,13998,https://i.i-sgcm.com/cars_used/202106/1008263_small.jpg
+71500,Wish 1.8A Elegance,Toyota,10420,04-Jul-2017,MPV,62000,https://i.i-sgcm.com/cars_used/202106/1007727_small.jpg
+21998,Civic 2.0A (COE till 10/2023),Honda,9860,13-Nov-2008,Sedan,151683,https://i.i-sgcm.com/cars_used/202106/1007396_small.jpg
+59800,6 2.0A,Mazda,10360,30-May-2016,Luxury,53000,https://i.i-sgcm.com/cars_used/202106/1007207_small.jpg
+128000,3 Series 318i Shadow Edition,BMW,13740,27-Jun-2019,Luxury,28400,https://i.i-sgcm.com/cars_used/202106/1006129_small.jpg
+87800,Corolla Altis 1.6A Elegance,Toyota,9570,31-Aug-2019,Sedan,32000,https://i.i-sgcm.com/cars_used/202106/1006027_small.jpg
+74800,X-Trail 2.0A Premium 7-Seater Sunroof,Nissan,10960,22-Mar-2017,SUV,134000,https://i.i-sgcm.com/cars_used/202106/1004397_small.jpg
+50500,Focus Titanium 1.0A GTDI 5DR,Ford,8100,13-Dec-2016,Hatchback,79123,https://i.i-sgcm.com/cars_used/202105/1000209_small.jpg
+89800,CLA-Class CLA180,Mercedes-Benz,14830,12-Oct-2016,Luxury,96000,https://i.i-sgcm.com/cars_used/202105/999017_small.jpg
+23800,Vios 1.5A G (COE till 07/2024),Toyota,8010,29-Jul-2009,Sedan,122000,https://i.i-sgcm.com/cars_used/202105/995263_small.jpg
+93900,E-Class E200 CGI (COE till 04/2031),Mercedes-Benz,9650,25-Jul-2011,Luxury,108000,https://i.i-sgcm.com/cars_used/202104/988231_small.jpg
+60800,XV 1.6i-S,Subaru,9970,31-Oct-2016,SUV,94160,https://i.i-sgcm.com/cars_used/202104/987174_small.jpg
+61800,3 Series 318i Sunroof (COE till 07/2030),BMW,6880,30-Jul-2010,Luxury,167000,https://i.i-sgcm.com/cars_used/202104/982980_small.jpg
+145800,Q5 2.0A TFSI Quattro S-tronic Sport,Audi,18540,27-Dec-2017,SUV,32000,https://i.i-sgcm.com/cars_used/202012/953304_small.jpg
+53800,C4 1.2A PureTech,Citroen,8670,18-Apr-2017,SUV,73053,https://i.i-sgcm.com/cars_used/202108/1020135_small.jpg
+68500,Vezel Hybrid 1.5A X,Honda,10790,20-Sep-2017,SUV,56000,https://i.i-sgcm.com/cars_used/202107/1018936_small.jpg
+33800,Golf 1.4A TSI (COE till 03/2025),Volkswagen,9310,26-Mar-2010,Hatchback,119000,https://i.i-sgcm.com/cars_used/202107/1017522_small.jpg
+48000,C-Class C180 Coupe,Mercedes-Benz,16900,19-Jun-2013,Sports,95000,https://i.i-sgcm.com/cars_used/202107/1017344_small.jpg
+250800,GTR 3.8A (COE till 04/2028),Nissan,37460,18-Apr-2008,Sports,80000,https://i.i-sgcm.com/cars_used/202107/1017338_small.jpg
+14800,Allion 1.5A (COE till 03/2023),Toyota,9190,20-Mar-2008,Sedan,150000,https://i.i-sgcm.com/cars_used/202107/1015055_small.jpg
+47800,3 HB 1.5A Sunroof,Mazda,11750,16-Jun-2015,Hatchback,78000,https://i.i-sgcm.com/cars_used/202107/1015033_small.jpg
+122800,Q7 3.0A TFSI Quattro S-Line (New 10-yr COE),Audi,12270,31-Dec-2011,SUV,129800,https://i.i-sgcm.com/cars_used/202107/1013933_small.jpg
+83800,A6 1.8A TFSI S-tronic,Audi,14720,14-Aug-2015,Luxury,82135,https://i.i-sgcm.com/cars_used/202107/1011195_small.jpg
+53800,Jazz 1.5A RS,Honda,11010,07-Jan-2016,Hatchback,20000,https://i.i-sgcm.com/cars_used/202106/1009375_small.jpg
+777000,E-Type Series 1 Roadster 3.8M (COE till 01/2029),Jaguar,103770,01-Jul-1964,Sports,30836,https://i.i-sgcm.com/cars_used/202106/1007657_small.jpg
+135888,Evolution 9 GT Wagon (COE till 08/2026),Mitsubishi,26820,21-Sep-2006,Stationwagon,150000,https://i.i-sgcm.com/cars_used/202106/1003857_small.jpg
+125800,Rover Range Rover Evoque 2.0A 5DR,Land,16800,28-Apr-2017,SUV,38588,https://i.i-sgcm.com/cars_used/202106/1003153_small.jpg
+120500,Tucson 1.6A GLS DCT Turbo,Hyundai,12070,08-Oct-2020,SUV,5000,https://i.i-sgcm.com/cars_used/202106/1002454_small.jpg
+99900,Tivoli Diesel 1.6A Standard,Ssangyong,9950,24-Aug-2020,SUV,16241,https://i.i-sgcm.com/cars_used/202106/1000900_small.jpg
+102800,X1 sDrive18i,BMW,14480,11-Aug-2017,SUV,63113,https://i.i-sgcm.com/cars_used/202105/998970_small.jpg
+70800,Grand C4 Picasso Diesel 1.6A BlueHDi Panoramic,Citroen,11290,03-May-2017,MPV,38000,https://i.i-sgcm.com/cars_used/202105/997206_small.jpg
+51000,3 1.5A Sunroof,Mazda,9660,27-Apr-2016,Sedan,67000,https://i.i-sgcm.com/cars_used/202105/995569_small.jpg
+64500,Vezel 1.5A X Sensing,Honda,10010,16-Jun-2017,SUV,50123,https://i.i-sgcm.com/cars_used/202104/990965_small.jpg
+86800,E-Class E250 CGI (COE till 04/2031),Mercedes-Benz,8920,16-May-2011,Luxury,120000,https://i.i-sgcm.com/cars_used/202104/983872_small.jpg
+76000,1 Series 118i 5DR (New 10-yr COE),BMW,7600,28-Oct-2011,Hatchback,122362,https://i.i-sgcm.com/cars_used/202103/972781_small.jpg
+103000,C-Class C180 Avantgarde,Mercedes-Benz,19200,05-Jan-2016,Luxury,29000,https://i.i-sgcm.com/cars_used/202108/1021278_small.jpg
+122800,X5 xDrive35i 7-Seater,BMW,20880,30-Jun-2015,SUV,102000,https://i.i-sgcm.com/cars_used/202108/1021276_small.jpg
+98800,TT Coupe 1.8T (COE till 01/2031),Audi,10410,07-Aug-2002,Sports,58000,https://i.i-sgcm.com/cars_used/202108/1021271_small.jpg
+82888,Stonic 1.0T SX Sunroof,Kia,8710,29-Jul-2020,SUV,18500,https://i.i-sgcm.com/cars_used/202108/1021265_small.jpg
+89800,GLA-Class GLA180,Mercedes-Benz,14420,17-Nov-2016,SUV,75000,https://i.i-sgcm.com/cars_used/202108/1019996_small.jpg
+83900,C-HR 1.2A Turbo Active,Toyota,10150,29-Jun-2018,SUV,25480,https://i.i-sgcm.com/cars_used/202104/988506_small.jpg
+560000,Ghost,Rolls-Royce,220940,31-May-2013,Luxury,52000,https://i.i-sgcm.com/cars_used/202108/1021275_small.jpg
+222988,7 Series 730Li Sunroof,BMW,23710,23-May-2018,Luxury,71000,https://i.i-sgcm.com/cars_used/202108/1021273_small.jpg
+71988,3 2.0A Sport,Mazda,9770,09-Jan-2018,Sedan,39000,https://i.i-sgcm.com/cars_used/202108/1021269_small.jpg
+56500,3 Series 320i Luxury,BMW,14870,06-Dec-2013,Luxury,53674,https://i.i-sgcm.com/cars_used/202108/1021268_small.jpg
+125000,E-Class E200,Mercedes-Benz,19910,11-May-2016,Luxury,41000,https://i.i-sgcm.com/used_cars/no_img_100x75.jpg
+35500,Grand C4 Picasso Diesel 1.6A e-HDi,Citroen,8700,26-Sep-2014,MPV,108179,https://i.i-sgcm.com/cars_used/202108/1021255_small.jpg
+165800,UX Hybrid UX250h Executive,Lexus,15910,16-Oct-2020,SUV,12000,https://i.i-sgcm.com/cars_used/202108/1020826_small.jpg
+132800,XC60 T5 Momentum,Volvo,17550,17-Nov-2017,SUV,33200,https://i.i-sgcm.com/cars_used/202107/1018759_small.jpg
+74800,Harrier 2.0A Premium Panoramic,Toyota,13720,05-Jan-2016,SUV,72000,https://i.i-sgcm.com/cars_used/202107/1017585_small.jpg
+121000,1 Series 118i 5DR,BMW,12180,16-Dec-2019,Hatchback,20000,https://i.i-sgcm.com/cars_used/202107/1017580_small.jpg
+10800,Getz 1.1M 5DR (COE till 09/2023),Hyundai,5110,20-Sep-2008,Hatchback,228000,https://i.i-sgcm.com/cars_used/202107/1016435_small.jpg
+68500,2 Series 216d Gran Tourer Luxury,BMW,12660,30-Dec-2015,MPV,87000,https://i.i-sgcm.com/cars_used/202106/1009857_small.jpg
+67800,Sienta 1.5A Elegance,Toyota,10600,16-Jan-2017,MPV,29800,https://i.i-sgcm.com/cars_used/202106/1004854_small.jpg
+153800,4 Series 420i Gran Coupe,BMW,15910,14-Aug-2019,Luxury,26800,https://i.i-sgcm.com/cars_used/202106/1000868_small.jpg
+127800,X2 sDrive18i M-Sport X,BMW,14290,31-Dec-2018,SUV,63200,https://i.i-sgcm.com/cars_used/202105/999581_small.jpg
+65800,X-Trail 2.0A Premium 7-Seater Sunroof,Nissan,10240,31-Oct-2016,SUV,121800,https://i.i-sgcm.com/cars_used/202105/998964_small.jpg
+95800,Outlander 2.0A,Mitsubishi,11060,21-May-2019,SUV,27500,https://i.i-sgcm.com/cars_used/202105/998461_small.jpg
+44800,Elantra 1.6A,Hyundai,9110,26-Oct-2015,Sedan,102016,https://i.i-sgcm.com/cars_used/202103/976780_small.jpg
+53888,Swift Sport 1.6A (COE till 02/2029),Suzuki,7140,23-Feb-2009,Hatchback,126020,https://i.i-sgcm.com/cars_used/202108/1021264_small.jpg
+20588,Corolla Altis 1.6A (COE till 02/2024),Toyota,8140,18-Feb-2009,Sedan,103000,https://i.i-sgcm.com/cars_used/202107/1015634_small.jpg
+153500,E-Class E200 Avantgarde,Mercedes-Benz,18130,19-Mar-2018,Luxury,55000,https://i.i-sgcm.com/cars_used/202107/1015530_small.jpg
+68800,Outback 2.5i-S Sunroof,Subaru,11220,27-Jul-2016,SUV,65000,https://i.i-sgcm.com/cars_used/202105/997323_small.jpg
+68800,Shuttle 1.5A G,Honda,9320,22-May-2018,Stationwagon,18198,https://i.i-sgcm.com/cars_used/202104/989935_small.jpg
+84800,Corolla Altis 1.6A Elegance,Toyota,9430,18-Jun-2019,Sedan,52309,https://i.i-sgcm.com/cars_used/202104/987017_small.jpg
+115777,Noah Hybrid 1.8A X,Toyota,12560,27-Aug-2019,MPV,50000,https://i.i-sgcm.com/cars_used/202108/1021259_small.jpg
+64800,6 2.0A,Mazda,10840,26-Jul-2016,Luxury,57600,https://i.i-sgcm.com/cars_used/202108/1021257_small.jpg
+71000,E-Class E200 CGI Avantgarde (COE till 04/2029),Mercedes-Benz,9180,27-Oct-2009,Luxury,122460,https://i.i-sgcm.com/cars_used/202108/1021246_small.jpg
+190000,Cayenne 3.6A Tip,Porsche,32620,15-Sep-2015,SUV,104000,https://i.i-sgcm.com/cars_used/202108/1021243_small.jpg
+41800,Civic 1.6M VTi (New 5-yr COE),Honda,8360,26-Aug-2011,Sedan,132000,https://i.i-sgcm.com/cars_used/202108/1019362_small.jpg
+72888,CX-3 2.0A Standard,Mazda,9130,30-Aug-2018,SUV,30000,https://i.i-sgcm.com/cars_used/202107/1016190_small.jpg
+65800,Cerato K3 1.6A,Kia,8800,17-May-2018,Sedan,32000,https://i.i-sgcm.com/cars_used/202107/1015736_small.jpg
+123800,Noah Hybrid 1.8A X,Toyota,12410,21-May-2020,MPV,12845,https://i.i-sgcm.com/cars_used/202107/1014871_small.jpg
+83800,5 Series 520i Luxury,BMW,16500,30-Jun-2015,Luxury,90000,https://i.i-sgcm.com/cars_used/202107/1013877_small.jpg
+115000,2 Series 218i Coupe Sunroof,BMW,15030,30-Jan-2018,Sports,6761,https://i.i-sgcm.com/cars_used/202106/1005913_small.jpg
+167888,Q7 2.0A TFSI Quattro Tip,Audi,23890,29-Dec-2016,SUV,44000,https://i.i-sgcm.com/cars_used/202106/1004939_small.jpg
+150800,C-Class C160 Avantgarde,Mercedes-Benz,14480,08-Sep-2020,Luxury,5500,https://i.i-sgcm.com/cars_used/202105/999346_small.jpg
+70777,Avante 1.6A GLS,Hyundai,8290,17-May-2019,Sedan,19132,https://i.i-sgcm.com/cars_used/202105/996063_small.jpg
+83900,C-HR 1.2A Turbo Active,Toyota,10150,29-Jun-2018,SUV,27507,https://i.i-sgcm.com/cars_used/202101/962535_small.jpg
+16800,Fit 1.3A G (COE till 11/2023),Honda,7360,20-Nov-2008,Hatchback,104000,https://i.i-sgcm.com/cars_used/202108/1021254_small.jpg
+135800,5 Series 520d,BMW,18920,28-Jun-2017,Luxury,80000,https://i.i-sgcm.com/cars_used/202108/1020993_small.jpg
+57988,Cooper 1.6A (COE till 06/2030),MINI,6550,16-Jun-2010,Hatchback,120000,https://i.i-sgcm.com/cars_used/202107/1017569_small.jpg
+48800,308 1.2A PureTech Allure,Peugeot,8680,22-Sep-2016,Hatchback,80000,https://i.i-sgcm.com/cars_used/202107/1017272_small.jpg
+141800,E-Class E200 Avantgarde,Mercedes-Benz,17780,14-Sep-2017,Luxury,62291,https://i.i-sgcm.com/cars_used/202107/1014940_small.jpg
+76800,Fit 1.3A G F-Package,Honda,8060,08-Oct-2020,Hatchback,7048,https://i.i-sgcm.com/cars_used/202107/1013049_small.jpg
+157500,4 Series 420i Gran Coupe,BMW,15960,29-Oct-2019,Luxury,15000,https://i.i-sgcm.com/cars_used/202107/1010654_small.jpg
+37800,Elantra 1.6A (New 5-yr COE),Hyundai,7560,26-Jul-2011,Sedan,113500,https://i.i-sgcm.com/cars_used/202106/1009518_small.jpg
+189800,X3 sDrive20i xLine,BMW,19860,30-Oct-2019,SUV,25000,https://i.i-sgcm.com/cars_used/202106/1008079_small.jpg
+109800,X1 sDrive18i,BMW,13990,31-Jan-2018,SUV,46000,https://i.i-sgcm.com/cars_used/202106/1005919_small.jpg
+49999,Attrage 1.2A Sports,Mitsubishi,7520,01-Dec-2017,Sedan,60000,https://i.i-sgcm.com/cars_used/202106/1005762_small.jpg
+128888,GLA-Class GLA180 Urban Edition,Mercedes-Benz,12660,28-Aug-2020,SUV,13000,https://i.i-sgcm.com/cars_used/202106/1005187_small.jpg
+78800,Sienta 1.5A Elegance,Toyota,9340,31-Dec-2018,MPV,51000,https://i.i-sgcm.com/cars_used/202106/1004531_small.jpg
+178000,2 Series 230i Convertible M-Sport,BMW,19000,24-Apr-2019,Sports,24000,https://i.i-sgcm.com/cars_used/202106/1004453_small.jpg
+252800,GLC-Class GLC43 Coupe AMG 4MATIC,Mercedes-Benz,25500,11-Sep-2019,SUV,26000,https://i.i-sgcm.com/cars_used/202106/1000986_small.jpg
+55900,Tivoli Diesel 1.6A,Ssangyong,8820,27-Oct-2016,SUV,55465,https://i.i-sgcm.com/cars_used/202105/1000095_small.jpg
+185777,3 Series 320i Luxury,BMW,17030,26-Oct-2020,Luxury,12600,https://i.i-sgcm.com/cars_used/202105/997057_small.jpg
+135500,Cooper S 2.0A,MINI,15120,03-May-2019,Hatchback,15943,https://i.i-sgcm.com/cars_used/202105/995619_small.jpg
+59888,Elantra 1.6A GLS S,Hyundai,8660,27-Oct-2017,Sedan,65000,https://i.i-sgcm.com/cars_used/202104/984906_small.jpg
+102500,ES Hybrid ES300h Luxury Sunroof,Lexus,15790,25-Jun-2016,Luxury,80000,https://i.i-sgcm.com/cars_used/202103/977106_small.jpg
+86800,Niro Hybrid 1.6A Sunroof,Kia,11320,01-Jun-2018,SUV,52000,https://i.i-sgcm.com/cars_used/202102/969184_small.jpg
+79800,1 Series 116d,BMW,11630,09-Nov-2017,Hatchback,62473,https://i.i-sgcm.com/cars_used/202102/968182_small.jpg
+38800,Elantra 1.6A (New 5-yr COE),Hyundai,7760,10-Aug-2011,Sedan,183000,https://i.i-sgcm.com/cars_used/202108/1021252_small.jpg
+111000,XJ 2.0A TSS Premium Luxury SWB Sunroof,Jaguar,17580,16-Mar-2015,Luxury,64000,https://i.i-sgcm.com/cars_used/202108/1021251_small.jpg
+73800,Qashqai 1.2A DIG-T Premium,Nissan,10430,13-Dec-2017,SUV,47390,https://i.i-sgcm.com/cars_used/202108/1021250_small.jpg
+109999,Forester 2.0i-S EyeSight Sunroof,Subaru,12080,14-Dec-2019,SUV,22000,https://i.i-sgcm.com/cars_used/202108/1021247_small.jpg
+55888,One 1.2M 5DR,MINI,12330,29-Sep-2015,Hatchback,61000,https://i.i-sgcm.com/cars_used/202108/1021245_small.jpg
+64800,5 2.0A Sunroof,Mazda,10340,31-Oct-2016,MPV,77000,https://i.i-sgcm.com/cars_used/202108/1021242_small.jpg
+162000,Q3 Sportback 1.4A TFSI S-tronic,Audi,15480,15-Dec-2020,Sedan,14000,https://i.i-sgcm.com/cars_used/202108/1021238_small.jpg
+79800,Freed Hybrid 1.5A G Sensing,Honda,12130,22-Dec-2017,MPV,35649,https://i.i-sgcm.com/cars_used/202108/1021166_small.jpg
+198800,I-PACE Electric First Edition,Jaguar,18790,04-Jan-2019,SUV,16000,https://i.i-sgcm.com/cars_used/202108/1020811_small.jpg
+89777,A6 1.8A TFSI Ultra S-tronic,Audi,14800,29-Mar-2016,Luxury,99256,https://i.i-sgcm.com/cars_used/202107/1017720_small.jpg
+146000,GLC-Class GLC250d 4MATIC,Mercedes-Benz,18970,08-Dec-2017,SUV,80000,https://i.i-sgcm.com/cars_used/202107/1017116_small.jpg
+77800,Civic 1.5A VTEC Turbo Sunroof,Honda,12820,03-Oct-2016,Sedan,29562,https://i.i-sgcm.com/cars_used/202107/1016642_small.jpg
+75800,Focus Wagon 1.0A GTDI Titanium,Ford,9240,26-Sep-2018,Stationwagon,34300,https://i.i-sgcm.com/cars_used/202107/1016473_small.jpg
+68800,Impreza 5D 1.6i-S,Subaru,9990,07-Nov-2017,Hatchback,78566,https://i.i-sgcm.com/cars_used/202107/1015483_small.jpg
+333888,Silver Seraph (COE till 03/2030),Rolls-Royce,38600,22-Aug-2000,Luxury,66000,https://i.i-sgcm.com/cars_used/202107/1015016_small.jpg
+62777,Tucson 2.0A GLS Sunroof,Hyundai,11410,27-Jan-2016,SUV,91857,https://i.i-sgcm.com/cars_used/202107/1014746_small.jpg
+29800,Camry 2.0A (COE till 12/2024),Toyota,8760,05-Jan-2010,Luxury,136000,https://i.i-sgcm.com/cars_used/202107/1013866_small.jpg
+58888,Civic 1.8A VTi-S (COE till 07/2028),Honda,8490,15-Jul-2008,Sedan,136128,https://i.i-sgcm.com/cars_used/202107/1013553_small.jpg
+71777,Harrier 2.0A Premium,Toyota,12930,28-Jan-2016,SUV,73000,https://i.i-sgcm.com/cars_used/202106/1005340_small.jpg
+56777,Elantra 1.6A GLS,Hyundai,8490,17-Aug-2017,Sedan,45300,https://i.i-sgcm.com/cars_used/202106/1004744_small.jpg
+180000,S-Class S400L,Mercedes-Benz,24970,16-Nov-2015,Luxury,93000,https://i.i-sgcm.com/cars_used/202105/998626_small.jpg
+57800,Vios 1.5A E (OPC),Toyota,7510,21-May-2018,Sedan,25000,https://i.i-sgcm.com/cars_used/202105/997181_small.jpg
+45388,Sylphy 1.6A Premium,Nissan,9060,14-Sep-2015,Sedan,92300,https://i.i-sgcm.com/cars_used/202105/995028_small.jpg
+85600,Vezel 1.5A X,Honda,9480,12-Nov-2019,SUV,23000,https://i.i-sgcm.com/cars_used/202104/989299_small.jpg
+126800,C-Class C180 Avantgarde,Mercedes-Benz,17120,20-Sep-2017,Luxury,16825,https://i.i-sgcm.com/cars_used/202104/987091_small.jpg
+265000,Romeo Giulia 2.9A Quadrifoglio,Alfa,27920,31-Jul-2019,Sports,14114,https://i.i-sgcm.com/cars_used/202104/983904_small.jpg
+56777,3 Series 316i,BMW,14540,22-Aug-2014,Luxury,120000,https://i.i-sgcm.com/cars_used/202103/976271_small.jpg
+58800,Lancer EX 2.0A GLS (COE till 03/2029),Mitsubishi,7760,04-Mar-2009,Sedan,177000,https://i.i-sgcm.com/cars_used/202108/1021244_small.jpg
+23800,3 Series 318i (COE till 03/2025),BMW,6530,01-Sep-2000,Luxury,233500,https://i.i-sgcm.com/cars_used/202108/1021240_small.jpg
+57700,A6 2.0A TFSI MU S-Line (COE till 08/2028),Audi,8180,28-Aug-2008,Luxury,165000,https://i.i-sgcm.com/cars_used/202108/1021231_small.jpg
+75000,Fuso Canter FEA01,Mitsubishi,9200,30-Sep-2019,Truck,1391,https://i.i-sgcm.com/cars_used/202108/1021227_small.jpg
+37900,Grand C4 Picasso Diesel 1.6A e-HDi,Citroen,7720,27-Aug-2015,MPV,153634,https://i.i-sgcm.com/cars_used/202108/1021216_small.jpg
+45998,Fluence Diesel 1.5A dCi Sunroof,Renault,8710,28-Apr-2016,Sedan,72307,https://i.i-sgcm.com/cars_used/202108/1021185_small.jpg
+119777,TTS Coupe 2.0A TFSI Quattro S-tronic (New 10-yr COE),Audi,11970,13-Jan-2012,Sports,107568,https://i.i-sgcm.com/cars_used/202108/1019984_small.jpg
+67800,Wish 1.8A X,Toyota,10700,15-Dec-2016,MPV,92242,https://i.i-sgcm.com/cars_used/202108/1019721_small.jpg
+80777,Forester 2.0i-L Sunroof,Subaru,11190,21-Mar-2018,SUV,32698,https://i.i-sgcm.com/cars_used/202107/1018276_small.jpg
+80777,Forester 2.0i-L Sunroof,Subaru,11190,21-Mar-2018,SUV,32698,https://i.i-sgcm.com/cars_used/202107/1018276_small.jpg
+95777,A6 1.8A TFSI Ultra S-tronic,Audi,14650,13-Sep-2016,Luxury,99125,https://i.i-sgcm.com/cars_used/202107/1017722_small.jpg
+84800,E-Class E250 CGI (COE till 04/2031),Mercedes-Benz,8710,06-Jul-2011,Luxury,131300,https://i.i-sgcm.com/cars_used/202107/1017531_small.jpg
+26800,Cerato Forte Koup 2.0A SX (COE till 10/2024),Kia,8290,26-Feb-2010,Sports,149000,https://i.i-sgcm.com/cars_used/202107/1016671_small.jpg
+58800,Attrage 1.2A,Mitsubishi,7950,05-Sep-2018,Sedan,61000,https://i.i-sgcm.com/cars_used/202107/1015607_small.jpg
+69800,ASX 2.0A,Mitsubishi,9650,18-Dec-2017,SUV,82000,https://i.i-sgcm.com/cars_used/202107/1014973_small.jpg
+40800,Elantra 1.6A Elite (New 5-yr COE),Hyundai,8160,12-Sep-2011,Sedan,135000,https://i.i-sgcm.com/cars_used/202107/1010941_small.jpg
+59800,Vezel 1.5A X Sensing,Honda,10130,20-Oct-2016,SUV,86000,https://i.i-sgcm.com/cars_used/202106/1009859_small.jpg
+54800,2 1.5A Deluxe,Mazda,8610,21-Mar-2017,Sedan,71000,https://i.i-sgcm.com/cars_used/202106/1009825_small.jpg
+36800,Vios 1.5A E (COE till 05/2026),Toyota,7640,01-Jun-2011,Sedan,113000,https://i.i-sgcm.com/cars_used/202106/1003739_small.jpg
+67500,XV 1.6i-S,Subaru,10000,27-Jul-2017,SUV,59500,https://i.i-sgcm.com/cars_used/202105/998466_small.jpg
+68800,Vezel Hybrid 1.5A Sensing,Honda,11160,17-Jul-2017,SUV,55000,https://i.i-sgcm.com/cars_used/202105/995744_small.jpg
+47777,C4 Picasso Diesel 1.6A BlueHDi,Citroen,8390,26-Sep-2016,MPV,103000,https://i.i-sgcm.com/cars_used/202105/992297_small.jpg
+47888,Accent 1.4A (OPC),Hyundai,6380,16-Jun-2018,Sedan,57000,https://i.i-sgcm.com/cars_used/202104/989959_small.jpg
+61600,Note 1.2A,Nissan,7780,13-Mar-2019,Hatchback,30880,https://i.i-sgcm.com/cars_used/202108/1020169_small.jpg
+44380,Elantra 1.6A GLS,Hyundai,8980,30-Oct-2015,Sedan,86000,https://i.i-sgcm.com/cars_used/202107/1018954_small.jpg
+132800,Noah Hybrid 1.8A X,Toyota,12650,12-Nov-2020,MPV,5000,https://i.i-sgcm.com/cars_used/202107/1018392_small.jpg
+64777,Odyssey 2.4A EXV-S Sunroof,Honda,13580,24-Mar-2015,MPV,118523,https://i.i-sgcm.com/cars_used/202107/1015518_small.jpg
+75800,RegiusAce 3.0A Super GL Dark Prime,Toyota,12560,21-Aug-2017,Van,70000,https://i.i-sgcm.com/cars_used/202107/1015277_small.jpg
+35800,Exora 1.6A M-Line (New 5-yr COE),Proton,7160,21-Sep-2011,MPV,156000,https://i.i-sgcm.com/cars_used/202107/1015182_small.jpg
+99777,Golf 1.4A TSI Highline Sunroof,Volkswagen,10940,25-Jun-2019,Hatchback,33000,https://i.i-sgcm.com/cars_used/202107/1014539_small.jpg
+114800,NX Turbo NX200t Executive,Lexus,16710,14-Dec-2016,SUV,52200,https://i.i-sgcm.com/cars_used/202107/1012552_small.jpg
+32800,Jazz 1.5A L Skyroof (COE till 02/2025),Honda,9350,09-Feb-2010,Hatchback,144000,https://i.i-sgcm.com/cars_used/202107/1011247_small.jpg
+93888,C-HR Hybrid 1.8A S,Toyota,10940,21-Feb-2019,SUV,20000,https://i.i-sgcm.com/cars_used/202106/1007457_small.jpg
+102888,Freed Hybrid 1.5A G,Honda,11100,27-Nov-2019,MPV,15000,https://i.i-sgcm.com/cars_used/202106/1005864_small.jpg
+38800,Jazz 1.3A L (COE till 05/2026),Honda,8090,25-May-2011,Hatchback,103000,https://i.i-sgcm.com/cars_used/202105/998251_small.jpg
+62800,Sportsvan 1.4A TSI Comfortline,Volkswagen,9690,28-Feb-2017,Hatchback,59240,https://i.i-sgcm.com/cars_used/202101/963629_small.jpg
+66800,Swift Sport 1.6A,Suzuki,10240,14-Jun-2017,Hatchback,51333,https://i.i-sgcm.com/cars_used/202101/961229_small.jpg
+64800,Fit 1.3A G F-Package,Honda,8140,15-Mar-2019,Hatchback,45000,https://i.i-sgcm.com/cars_used/202108/1021234_small.jpg
+73800,Civic 1.6A VTi,Honda,9960,11-Jan-2018,Sedan,41000,https://i.i-sgcm.com/cars_used/202108/1021233_small.jpg
+658800,Aventador LP700-4 (New 10-yr COE),Lamborghini,65840,12-Jan-2012,Sports,31000,https://i.i-sgcm.com/cars_used/202108/1021232_small.jpg
+288888,F430 F1 Spider (COE till 04/2029),Ferrari,37370,13-Jul-2009,Sports,33000,https://i.i-sgcm.com/cars_used/202108/1021230_small.jpg
+173888,GranTurismo 4.2A (New 10-yr COE),Maserati,17380,12-Dec-2011,Sports,63000,https://i.i-sgcm.com/cars_used/202108/1021226_small.jpg
+84800,Raize 1.0A X,Toyota,8660,05-Feb-2021,SUV,16000,https://i.i-sgcm.com/cars_used/202108/1021225_small.jpg
+70800,C-HR Hybrid 1.8A S,Toyota,10910,10-Nov-2017,SUV,45186,https://i.i-sgcm.com/cars_used/202108/1021224_small.jpg
+19800,Every (COE till 03/2025),Suzuki,5510,12-Mar-2010,Van,213000,https://i.i-sgcm.com/cars_used/202108/1021184_small.jpg
+57998,1 Series 116d,BMW,12400,19-Oct-2015,Hatchback,95887,https://i.i-sgcm.com/cars_used/202108/1021028_small.jpg
+48998,Lancer EX 1.5A GLX (COE till 08/2028),Mitsubishi,6980,15-Aug-2008,Sedan,135227,https://i.i-sgcm.com/cars_used/202108/1020283_small.jpg
+67800,Prius Hybrid 1.8A,Toyota,11190,09-Jun-2017,Hatchback,56888,https://i.i-sgcm.com/cars_used/202108/1020054_small.jpg
+50800,Estima 2.4A Aeras 8-Seater (COE till 11/2027),Toyota,8040,25-Apr-2008,MPV,136000,https://i.i-sgcm.com/cars_used/202108/1019291_small.jpg
+85800,Shuttle Hybrid 1.5A,Honda,10370,12-Apr-2019,Stationwagon,10400,https://i.i-sgcm.com/cars_used/202107/1018460_small.jpg
+75800,Jazz 1.3A,Honda,8670,26-Dec-2019,Hatchback,18000,https://i.i-sgcm.com/cars_used/202107/1013169_small.jpg
+47777,Attrage 1.2A Sports (OPC),Mitsubishi,6500,26-Jul-2018,Sedan,19972,https://i.i-sgcm.com/cars_used/202107/1012081_small.jpg
+388000,911 Turbo S Coupe 3.8A PDK (COE till 04/2029),Porsche,50180,15-Sep-2010,Sports,110000,https://i.i-sgcm.com/cars_used/202107/1011951_small.jpg
+74888,Cerato 1.6A SX Sunroof,Kia,8870,10-Jan-2019,Sedan,21074,https://i.i-sgcm.com/cars_used/202107/1011317_small.jpg
+62800,NHR87A,Isuzu,9350,26-Apr-2018,Truck,64500,https://i.i-sgcm.com/cars_used/202107/1010192_small.jpg
+154800,C-Class C160 Avantgarde,Mercedes-Benz,14740,01-Oct-2020,Luxury,17000,https://i.i-sgcm.com/cars_used/202107/1009945_small.jpg
+65555,Jazz 1.3A,Honda,8740,08-Oct-2018,Hatchback,33513,https://i.i-sgcm.com/cars_used/202106/1007435_small.jpg
+101888,Freed Hybrid 1.5A G,Honda,11280,01-Oct-2019,MPV,15000,https://i.i-sgcm.com/cars_used/202106/1007356_small.jpg
+38388,Elantra 1.6A (COE till 05/2026),Hyundai,7970,14-Jun-2011,Sedan,154000,https://i.i-sgcm.com/cars_used/202106/1006548_small.jpg
+76800,C-Class C180K Avantgarde (New 10-yr COE),Mercedes-Benz,7680,13-Oct-2011,Luxury,110000,https://i.i-sgcm.com/cars_used/202105/1000063_small.jpg
+63800,Jazz 1.3A (OPC),Honda,6810,24-Jun-2020,Hatchback,6016,https://i.i-sgcm.com/cars_used/202105/994292_small.jpg
+71888,City 1.5A SV,Honda,8940,07-Sep-2018,Sedan,31181,https://i.i-sgcm.com/cars_used/202105/993033_small.jpg
+77800,A6 2.0A TFSI,Audi,14860,28-May-2015,Luxury,100000,https://i.i-sgcm.com/cars_used/202105/992638_small.jpg
+87800,ES250 Luxury Sunroof,Lexus,16470,23-Jun-2015,Luxury,102000,https://i.i-sgcm.com/cars_used/202104/991025_small.jpg
+76800,Tiguan 2.0A TSI (COE till 05/2031),Volkswagen,7870,12-May-2011,SUV,65000,https://i.i-sgcm.com/cars_used/202104/990077_small.jpg
+59800,Hiace 3.0A DX,Toyota,10190,22-Jun-2017,Van,78400,https://i.i-sgcm.com/cars_used/202104/988051_small.jpg
+40800,Civic 1.6A VTi (COE till 04/2026),Honda,8650,26-Apr-2011,Sedan,80024,https://i.i-sgcm.com/cars_used/202104/984896_small.jpg
+71800,Avante 1.6A GLS S,Hyundai,8300,16-May-2019,Sedan,40000,https://i.i-sgcm.com/cars_used/202103/979330_small.jpg
+70800,B-Class B180 Style,Mercedes-Benz,12530,22-Apr-2016,Hatchback,88251,https://i.i-sgcm.com/cars_used/202103/978786_small.jpg
+53800,Lancer EX 1.6A Sports,Mitsubishi,8840,30-Nov-2016,Sedan,86000,https://i.i-sgcm.com/cars_used/202103/977997_small.jpg
+91888,Sienta Hybrid 1.5A X LED,Toyota,9730,20-Feb-2020,MPV,6511,https://i.i-sgcm.com/cars_used/202103/975353_small.jpg
+75555,Cerato 1.6A EX,Kia,8510,16-Aug-2019,Sedan,28000,https://i.i-sgcm.com/cars_used/202101/961487_small.jpg
+149800,GLC-Class GLC250d Coupe AMG Line 4MATIC,Mercedes-Benz,20310,17-May-2017,SUV,41010,https://i.i-sgcm.com/cars_used/202011/944697_small.jpg
+107800,Sharan 2.0A TSI Sunroof,Volkswagen,13890,23-Nov-2017,MPV,62000,https://i.i-sgcm.com/cars_used/202010/936061_small.jpg
+100800,A6 1.8A TFSI Ultra S-tronic,Audi,14670,27-Dec-2016,Luxury,98000,https://i.i-sgcm.com/cars_used/202108/1020087_small.jpg
+16800,Stream 1.8A RSZ Sunroof (COE till 08/2023),Honda,8280,20-Aug-2008,MPV,143500,https://i.i-sgcm.com/cars_used/202108/1019927_small.jpg
+94800,Freed Hybrid 1.5A G 7-Seater Sensing,Honda,11380,30-Jan-2019,MPV,49000,https://i.i-sgcm.com/cars_used/202108/1019889_small.jpg
+76800,86 2.0A,Toyota,19670,11-Aug-2014,Sports,76560,https://i.i-sgcm.com/cars_used/202108/1019688_small.jpg
+65800,Wish 1.8A Elegance,Toyota,10580,16-Nov-2016,MPV,96977,https://i.i-sgcm.com/cars_used/202108/1019637_small.jpg
+48800,3 1.5A Deluxe,Mazda,9700,21-Dec-2015,Sedan,101000,https://i.i-sgcm.com/cars_used/202108/1019108_small.jpg
+115800,Karoq 1.5A TSI Style,Skoda,12450,24-Sep-2019,SUV,24888,https://i.i-sgcm.com/cars_used/202107/1018548_small.jpg
+57800,Lancer EX 1.6A,Mitsubishi,8610,08-Aug-2017,Sedan,62000,https://i.i-sgcm.com/cars_used/202107/1018473_small.jpg
+77800,C-Class C180K Avantgarde (New 10-yr COE),Mercedes-Benz,7780,31-Aug-2011,Luxury,157108,https://i.i-sgcm.com/cars_used/202107/1017406_small.jpg
+80800,Harrier 2.0A Premium Panoramic,Toyota,13440,13-Jul-2016,SUV,75000,https://i.i-sgcm.com/cars_used/202107/1016160_small.jpg
+53800,A4 1.8A TFSI MU,Audi,12600,23-Dec-2014,Luxury,90000,https://i.i-sgcm.com/cars_used/202107/1015174_small.jpg
+219800,6 Series 640i Gran Turismo xDrive M-Sport,BMW,23680,18-May-2018,Luxury,78000,https://i.i-sgcm.com/cars_used/202107/1014983_small.jpg
+27800,Fit 1.3A G (COE till 12/2024),Honda,8320,10-Dec-2009,Hatchback,142000,https://i.i-sgcm.com/cars_used/202107/1014638_small.jpg
+79999,A3 Sedan 1.0A TFSI S-tronic,Audi,11630,12-Oct-2017,Luxury,62000,https://i.i-sgcm.com/cars_used/202107/1013024_small.jpg
+76508,TT Coupe 2.0A TFSI S-tronic (COE till 03/2029),Audi,10000,08-Jun-2009,Sports,135000,https://i.i-sgcm.com/cars_used/202107/1011819_small.jpg
+65888,Elantra 1.6A GLS S,Hyundai,8330,03-Oct-2018,Sedan,58815,https://i.i-sgcm.com/cars_used/202107/1011526_small.jpg
+46800,NNR85,Isuzu,9950,21-Apr-2016,Truck,112000,https://i.i-sgcm.com/cars_used/202106/1009420_small.jpg
+125800,XC40 T5 Momentum,Volvo,16460,22-May-2018,SUV,48000,https://i.i-sgcm.com/cars_used/202106/1008249_small.jpg
+88800,E-Class E250,Mercedes-Benz,16370,21-Apr-2015,Luxury,130000,https://i.i-sgcm.com/cars_used/202106/1007536_small.jpg
+37800,C-Class C180 CGI,Mercedes-Benz,16750,17-Dec-2012,Luxury,130000,https://i.i-sgcm.com/cars_used/202106/1007265_small.jpg
+77800,C-Class C180K Avantgarde (New 10-yr COE),Mercedes-Benz,7780,16-Jan-2012,Luxury,118000,https://i.i-sgcm.com/cars_used/202106/1007029_small.jpg
+167800,5 Series 520i Sport,BMW,18420,25-Jan-2019,Luxury,29821,https://i.i-sgcm.com/cars_used/202106/1004487_small.jpg
+95800,Freed Hybrid 1.5A G,Honda,12410,04-Sep-2018,MPV,54000,https://i.i-sgcm.com/cars_used/202106/1003535_small.jpg
+72800,2 HB 1.5A Standard,Mazda,7970,16-Oct-2019,Hatchback,29000,https://i.i-sgcm.com/cars_used/202105/1000230_small.jpg
+97500,Q30 1.6T Premium,Infiniti,11110,31-Oct-2018,Hatchback,55000,https://i.i-sgcm.com/cars_used/202105/1000001_small.jpg
+78800,Q3 2.0A TFSI Quattro,Audi,13600,24-Nov-2015,SUV,112000,https://i.i-sgcm.com/cars_used/202105/997931_small.jpg
+39800,Cabstar,Nissan,8740,27-Feb-2016,Truck,82000,https://i.i-sgcm.com/cars_used/202105/996808_small.jpg
+209800,GLC-Class GLC300 Mild Hybrid AMG Line 4MATIC,Mercedes-Benz,19840,30-Sep-2020,SUV,13188,https://i.i-sgcm.com/cars_used/202105/996682_small.jpg
+203800,Macan Diesel S 3.0A PDK,Porsche,29090,18-Nov-2016,SUV,46000,https://i.i-sgcm.com/cars_used/202104/990290_small.jpg
+62777,Forester 2.0i-L Sunroof,Subaru,10810,29-Aug-2016,SUV,82111,https://i.i-sgcm.com/cars_used/202104/988563_small.jpg
+89800,5 Series 520i (COE till 04/2031),BMW,9230,17-Jan-2012,Luxury,120000,https://i.i-sgcm.com/cars_used/202104/984525_small.jpg
+82800,E-Class E200 CGI (COE till 04/2031),Mercedes-Benz,8510,02-Jun-2011,Luxury,121000,https://i.i-sgcm.com/cars_used/202104/982652_small.jpg
+62800,Tucson 2.0A GLS,Hyundai,11350,27-Apr-2016,SUV,80000,https://i.i-sgcm.com/cars_used/202103/979249_small.jpg
+59800,3 1.5A Deluxe (OPC),Mazda,7600,29-Mar-2018,Sedan,35980,https://i.i-sgcm.com/cars_used/202008/920480_small.jpg
+67000,Fit 1.3A GF,Honda,7760,30-Oct-2019,Hatchback,8984,https://i.i-sgcm.com/cars_used/202108/1021220_small.jpg
+40900,Elantra 1.6A GLS (OPC),Hyundai,7860,29-Dec-2015,Sedan,27721,https://i.i-sgcm.com/cars_used/202108/1021219_small.jpg
+65500,i30 1.4A T-GDi DCT Turbo,Hyundai,9340,16-Mar-2018,Hatchback,60000,https://i.i-sgcm.com/cars_used/202108/1021214_small.jpg
+66000,C-Class C200K (COE till 12/2028),Mercedes-Benz,8920,27-Feb-2009,Luxury,130000,https://i.i-sgcm.com/cars_used/202108/1021211_small.jpg
+19800,i30 1.6A Sunroof (COE till 05/2024),Hyundai,7040,10-Jun-2009,Hatchback,168000,https://i.i-sgcm.com/cars_used/202108/1021209_small.jpg
+568800,911 Carrera S Coupe 3.0A PDK,Porsche,47200,10-Feb-2021,Sports,1900,https://i.i-sgcm.com/cars_used/202108/1021208_small.jpg
+73800,Note 1.2A,Nissan,7820,18-Sep-2020,Hatchback,7580,https://i.i-sgcm.com/cars_used/202108/1021205_small.jpg
+188000,Ghibli 3.0A,Maserati,28140,15-Jan-2016,Luxury,69000,https://i.i-sgcm.com/cars_used/202108/1021204_small.jpg
+55800,Sienta Hybrid 1.5A X,Toyota,10170,04-Nov-2016,MPV,128363,https://i.i-sgcm.com/cars_used/202108/1021194_small.jpg
+23888,Allion 1.5A (COE till 08/2024),Toyota,7890,18-Aug-2009,Sedan,140000,https://i.i-sgcm.com/cars_used/202108/1021191_small.jpg
+22998,i30 Wagon 1.6A Sunroof (COE till 08/2024),Hyundai,7600,18-Aug-2009,Stationwagon,155340,https://i.i-sgcm.com/cars_used/202108/1021148_small.jpg
+89800,C-Class C180 Avantgarde,Mercedes-Benz,16080,02-Feb-2016,Luxury,76000,https://i.i-sgcm.com/cars_used/202108/1020093_small.jpg
+118800,GLA-Class GLA200 Urban Edition,Mercedes-Benz,15380,28-Feb-2018,SUV,33000,https://i.i-sgcm.com/cars_used/202108/1019887_small.jpg
+119800,CX-5 2.0A Premium,Mazda,12520,29-Nov-2019,SUV,25000,https://i.i-sgcm.com/cars_used/202108/1019675_small.jpg
+46800,C4 Picasso Diesel 1.6A BlueHDi,Citroen,8650,15-Jun-2016,MPV,84339,https://i.i-sgcm.com/cars_used/202108/1019329_small.jpg
+36800,Cabstar,Nissan,9000,09-Sep-2015,Truck,110000,https://i.i-sgcm.com/cars_used/202108/1019220_small.jpg
+63500,Orlando 1.4A Turbo LS,Chevrolet,9800,10-Apr-2017,MPV,73500,https://i.i-sgcm.com/cars_used/202108/1019210_small.jpg
+71800,Jazz 1.3A,Honda,8690,03-Jul-2019,Hatchback,28000,https://i.i-sgcm.com/cars_used/202107/1019011_small.jpg
+172888,GLC-Class GLC200,Mercedes-Benz,19310,20-Mar-2019,SUV,31476,https://i.i-sgcm.com/cars_used/202107/1018868_small.jpg
+157800,C-Class C180 Avantgarde,Mercedes-Benz,16230,02-Jan-2020,Luxury,15304,https://i.i-sgcm.com/cars_used/202107/1017573_small.jpg
+188800,M Series M3 Sedan,BMW,38560,13-Feb-2015,Sports,120000,https://i.i-sgcm.com/cars_used/202107/1017239_small.jpg
+58800,Vezel 1.5A X Sensing,Honda,9800,18-Nov-2016,SUV,50000,https://i.i-sgcm.com/cars_used/202107/1016328_small.jpg
+38500,Passat 2.0A FSI (COE till 05/2026),Volkswagen,8000,28-Jun-2006,Luxury,145200,https://i.i-sgcm.com/cars_used/202107/1015246_small.jpg
+9800,Estima 2.4A (COE till 06/2022),Toyota,11580,14-Jun-2007,MPV,125000,https://i.i-sgcm.com/cars_used/202107/1015011_small.jpg
+116000,Ranger Double-Cab 3.2A XLT,Ford,14590,19-Jul-2019,Truck,54000,https://i.i-sgcm.com/cars_used/202107/1015009_small.jpg
+618000,911 Carrera S Coupe 3.0A PDK,Porsche,59040,02-Jan-2020,Sports,5500,https://i.i-sgcm.com/cars_used/202107/1015006_small.jpg
+58888,1 Series 125i Coupe M-Sport (COE till 07/2028),BMW,8440,31-Jul-2008,Sports,139000,https://i.i-sgcm.com/cars_used/202107/1014982_small.jpg
+136969,Panamera 3.6A PDK (COE till 12/2030),Porsche,14570,07-Mar-2011,Sports,96000,https://i.i-sgcm.com/cars_used/202107/1014850_small.jpg
+78888,Grand Scenic Diesel 1.5A dCi Sunroof,Renault,10380,11-May-2018,MPV,89568,https://i.i-sgcm.com/cars_used/202107/1014816_small.jpg
+79800,Vios 1.5A E,Toyota,8430,30-Mar-2020,Sedan,18500,https://i.i-sgcm.com/cars_used/202107/1014257_small.jpg
+55800,3 1.5A Sunroof,Mazda,9090,23-Feb-2017,Sedan,66124,https://i.i-sgcm.com/cars_used/202107/1014177_small.jpg
+100800,Civic 1.5A VTEC Turbo Sunroof,Honda,11810,20-Nov-2018,Sedan,32323,https://i.i-sgcm.com/cars_used/202107/1013615_small.jpg
+50800,Cerato K3 1.6A EX (OPC),Kia,6850,08-Feb-2018,Sedan,21632,https://i.i-sgcm.com/cars_used/202107/1013352_small.jpg
+46888,Golf 1.4A TSI EQP Sunroof,Volkswagen,11710,25-Mar-2015,Hatchback,70000,https://i.i-sgcm.com/cars_used/202107/1012970_small.jpg
+105800,Harrier 2.0A Turbo G Panoramic,Toyota,13600,31-Oct-2017,SUV,80000,https://i.i-sgcm.com/cars_used/202107/1012916_small.jpg
+67300,Sylphy 1.6A,Nissan,7820,18-Feb-2019,Sedan,43000,https://i.i-sgcm.com/cars_used/202107/1012763_small.jpg
+75388,Note 1.2A,Nissan,7770,23-Dec-2020,Hatchback,2700,https://i.i-sgcm.com/cars_used/202107/1012258_small.jpg
+15800,Rush 1.5A X (COE till 07/2023),Toyota,8180,15-Jul-2008,SUV,165000,https://i.i-sgcm.com/cars_used/202107/1011939_small.jpg
+29300,Cabstar,Nissan,9490,09-Sep-2014,Truck,110607,https://i.i-sgcm.com/cars_used/202107/1011937_small.jpg
+79999,CX-3 2.0A Deluxe,Mazda,9260,16-Jan-2019,SUV,27000,https://i.i-sgcm.com/cars_used/202107/1010985_small.jpg
+78800,Sienta 1.5A Standard,Toyota,8990,24-May-2019,MPV,33715,https://i.i-sgcm.com/cars_used/202106/1009460_small.jpg
+66800,Elantra 1.6A GLS S,Hyundai,8480,26-Sep-2018,Sedan,31520,https://i.i-sgcm.com/cars_used/202106/1009115_small.jpg
+27800,Cabstar,Nissan,9610,30-Jun-2014,Truck,110000,https://i.i-sgcm.com/cars_used/202106/1008861_small.jpg
+109500,3 Series 318i Luxury,BMW,13680,28-Feb-2018,Luxury,60000,https://i.i-sgcm.com/cars_used/202106/1008480_small.jpg
+105988,Cooper S 2.0A 5DR,MINI,14550,21-Jul-2017,Sports,56600,https://i.i-sgcm.com/cars_used/202106/1007655_small.jpg
+53800,Qashqai 1.2A DIG-T Premium,Nissan,10790,18-Dec-2015,SUV,69991,https://i.i-sgcm.com/cars_used/202106/1007508_small.jpg
+24800,Corolla Axio 1.5A X (COE till 10/2024),Toyota,7670,05-Nov-2009,Sedan,138000,https://i.i-sgcm.com/cars_used/202106/1007361_small.jpg
+88800,Scenic Diesel 1.5A dCi Sunroof,Renault,9600,23-Dec-2019,Hatchback,23810,https://i.i-sgcm.com/cars_used/202106/1007177_small.jpg
+79800,Jazz 1.5A,Honda,8600,12-Nov-2019,Hatchback,23441,https://i.i-sgcm.com/cars_used/202106/1006805_small.jpg
+69800,1 Series 116d,BMW,11840,06-Jan-2017,Hatchback,74339,https://i.i-sgcm.com/cars_used/202106/1006590_small.jpg
+87800,A3 Sedan 1.0A TFSI S-tronic,Audi,11400,20-Feb-2018,Luxury,57358,https://i.i-sgcm.com/cars_used/202106/1004400_small.jpg
+61800,Elantra 1.6A GLS S,Hyundai,8810,09-Dec-2017,Sedan,55000,https://i.i-sgcm.com/cars_used/202106/1002943_small.jpg
+55800,City 1.5A SV,Honda,8940,16-Feb-2017,Sedan,62000,https://i.i-sgcm.com/cars_used/202106/1001793_small.jpg
+71800,Shuttle 1.5A G LED,Honda,9870,08-Jun-2018,Stationwagon,21000,https://i.i-sgcm.com/cars_used/202106/1001517_small.jpg
+62800,Hiace 3.0A Super GL Dark Prime,Toyota,12370,05-Sep-2016,Van,108000,https://i.i-sgcm.com/cars_used/202106/1001376_small.jpg
+68800,Elantra 1.6A GLS Elite,Hyundai,8670,12-Sep-2018,Sedan,50000,https://i.i-sgcm.com/cars_used/202105/999252_small.jpg
+92800,CX-3 2.0A Deluxe,Mazda,9740,27-Dec-2019,SUV,34000,https://i.i-sgcm.com/cars_used/202105/999130_small.jpg
+92600,Civic 1.5A VTEC Turbo Sunroof,Honda,11280,10-Jul-2018,Sedan,56000,https://i.i-sgcm.com/cars_used/202105/997863_small.jpg
+69800,2 HB 1.5A Standard,Mazda,8580,21-Nov-2018,Hatchback,30110,https://i.i-sgcm.com/cars_used/202105/997566_small.jpg
+97777,Freed Hybrid 1.5A G 7-Seater,Honda,10840,06-Sep-2019,MPV,19973,https://i.i-sgcm.com/cars_used/202105/997065_small.jpg
+80800,CR-V 2.4A Sunroof,Honda,12050,15-Dec-2016,SUV,78496,https://i.i-sgcm.com/cars_used/202105/996505_small.jpg
+23800,Impreza 5D 1.5R (COE till 01/2025),Subaru,6930,13-Jan-2010,Hatchback,177000,https://i.i-sgcm.com/cars_used/202105/996219_small.jpg
+42800,Camry 2.4A (COE till 06/2028),Toyota,6260,07-Jun-2008,Luxury,160386,https://i.i-sgcm.com/cars_used/202105/995482_small.jpg
+83800,Outlander 2.0A (OPC),Mitsubishi,9810,18-Feb-2019,SUV,8193,https://i.i-sgcm.com/cars_used/202105/995215_small.jpg
+86800,Vezel Hybrid 1.5A X,Honda,11090,31-Aug-2018,SUV,38000,https://i.i-sgcm.com/cars_used/202105/995210_small.jpg
+79800,Cerato 1.6A EX,Kia,8730,29-Nov-2019,Sedan,4253,https://i.i-sgcm.com/cars_used/202105/994378_small.jpg
+73800,Civic 1.6A VTi,Honda,10160,24-Nov-2017,Sedan,82000,https://i.i-sgcm.com/cars_used/202105/994271_small.jpg
+66800,Civic 1.6A VTi,Honda,10630,07-Dec-2016,Sedan,61000,https://i.i-sgcm.com/cars_used/202105/993307_small.jpg
+53888,Forester 2.0i-L Sunroof (OPC),Subaru,9600,31-May-2016,SUV,77575,https://i.i-sgcm.com/cars_used/202105/992984_small.jpg
+49800,Cerato K3 1.6A (OPC),Kia,6610,09-Apr-2018,Sedan,24029,https://i.i-sgcm.com/cars_used/202105/992973_small.jpg
+116800,ES250 Luxury Sunroof,Lexus,16790,03-Feb-2017,Luxury,47000,https://i.i-sgcm.com/cars_used/202105/992719_small.jpg
+59800,SLK-Class SLK200,Mercedes-Benz,33460,31-Jul-2012,Sports,81000,https://i.i-sgcm.com/cars_used/202105/992288_small.jpg
+67800,S-Class S300L Sunroof (COE till 01/2027),Mercedes-Benz,12420,22-Jan-2007,Luxury,130000,https://i.i-sgcm.com/cars_used/202104/989001_small.jpg
+58800,Shuttle 1.5A G,Honda,10450,25-Oct-2016,Stationwagon,48000,https://i.i-sgcm.com/cars_used/202104/987735_small.jpg
+79800,Civic 1.6A VTi,Honda,10480,09-Apr-2018,Sedan,38500,https://i.i-sgcm.com/cars_used/202104/987706_small.jpg
+166800,S-Class S400L,Mercedes-Benz,27020,12-Jan-2015,Luxury,80000,https://i.i-sgcm.com/cars_used/202104/982185_small.jpg
+47800,NV350 2.5M,Nissan,8250,24-May-2017,Van,78200,https://i.i-sgcm.com/cars_used/202103/980341_small.jpg
+119800,X1 sDrive18i,BMW,13610,30-Nov-2018,SUV,32000,https://i.i-sgcm.com/cars_used/202103/978977_small.jpg
+87800,XE Diesel 2.0A Prestige,Jaguar,12160,13-Jun-2017,Luxury,49000,https://i.i-sgcm.com/cars_used/202103/978154_small.jpg
+173800,E-Class E250 Avantgarde,Mercedes-Benz,19040,12-Sep-2018,Luxury,40000,https://i.i-sgcm.com/cars_used/202103/977198_small.jpg
+62800,Vitara 1.6A GLX,Suzuki,9570,24-Jul-2017,SUV,61024,https://i.i-sgcm.com/cars_used/202102/971382_small.jpg
+128000,Cayenne 3.6A Tip,Porsche,43060,22-Mar-2013,SUV,48000,https://i.i-sgcm.com/cars_used/202108/1020986_small.jpg
+43800,Vios 1.5M E (COE till 10/2028),Toyota,6060,29-Oct-2008,Sedan,119853,https://i.i-sgcm.com/cars_used/202108/1020949_small.jpg
+96888,Cerato 1.6A GT Line Sunroof,Kia,9030,29-Apr-2021,Sedan,2500,https://i.i-sgcm.com/cars_used/202108/1020743_small.jpg
+57800,Elantra 1.6A GLS S,Hyundai,8440,13-Sep-2017,Sedan,77721,https://i.i-sgcm.com/cars_used/202108/1020569_small.jpg
+128888,5 Series 528i Gran Turismo M-Sport,BMW,18740,07-Oct-2016,Luxury,91000,https://i.i-sgcm.com/cars_used/202108/1020393_small.jpg
+90800,Odyssey 2.4A EXV-S Sunroof,Honda,13100,24-Jan-2017,MPV,73000,https://i.i-sgcm.com/cars_used/202108/1020166_small.jpg
+82888,6 2.0A Executive,Mazda,10720,30-Apr-2018,Luxury,42000,https://i.i-sgcm.com/cars_used/202108/1019704_small.jpg
+41800,Corolla Altis 1.6A,Toyota,10860,28-Oct-2014,Sedan,124000,https://i.i-sgcm.com/cars_used/202108/1019594_small.jpg
+155300,5 Series 520d M-Sport,BMW,20010,24-Nov-2017,Luxury,68000,https://i.i-sgcm.com/cars_used/202108/1019500_small.jpg
+110800,C-Class C180 Avantgarde,Mercedes-Benz,16170,24-Mar-2017,Luxury,43600,https://i.i-sgcm.com/cars_used/202108/1019109_small.jpg
+155800,X4 xDrive28i M-Sport Sunroof,BMW,18780,27-Dec-2017,SUV,102000,https://i.i-sgcm.com/cars_used/202107/1018960_small.jpg
+87800,Freed Hybrid 1.5A G Sensing,Honda,11470,18-Apr-2018,MPV,62197,https://i.i-sgcm.com/cars_used/202107/1018813_small.jpg
+113800,E-Class E200 AMG Edition E,Mercedes-Benz,17530,15-Mar-2016,Luxury,82381,https://i.i-sgcm.com/cars_used/202107/1018740_small.jpg
+59800,Dyna 150 3.0M,Toyota,10220,15-Jun-2017,Truck,109617,https://i.i-sgcm.com/cars_used/202107/1017876_small.jpg
+70800,Stepwagon 1.5A Spada,Honda,13720,15-Oct-2015,MPV,83909,https://i.i-sgcm.com/cars_used/202107/1017669_small.jpg
+138000,Cayenne S 4.8A Tip (New 10-yr COE),Porsche,13790,02-Sep-2011,SUV,92000,https://i.i-sgcm.com/cars_used/202107/1016576_small.jpg
+19800,Stream 1.8A Sunroof (COE till 11/2023),Honda,8800,08-Nov-2008,MPV,167000,https://i.i-sgcm.com/cars_used/202107/1016416_small.jpg
+44800,Lancer EX 1.5A GLS Sports Sunroof (COE till 11/2027),Mitsubishi,7100,30-Nov-2007,Sedan,120000,https://i.i-sgcm.com/cars_used/202107/1016167_small.jpg
+64888,V40 T2,Volvo,10720,20-Sep-2016,Hatchback,57645,https://i.i-sgcm.com/cars_used/202107/1014885_small.jpg
+152999,A4 Mild Hybrid 2.0A TFSI S-tronic,Audi,14120,29-Dec-2020,Luxury,6000,https://i.i-sgcm.com/cars_used/202107/1014859_small.jpg
+102800,CR-V 1.5A Turbo 7-Seater,Honda,13580,20-Oct-2017,SUV,45136,https://i.i-sgcm.com/cars_used/202107/1014581_small.jpg
+47800,Qashqai 1.2A DIG-T Premium,Nissan,9780,20-Oct-2015,SUV,103634,https://i.i-sgcm.com/cars_used/202107/1014482_small.jpg
+53515,Attrage 1.2A Sports,Mitsubishi,7850,06-Feb-2018,Sedan,67000,https://i.i-sgcm.com/cars_used/202107/1014255_small.jpg
+35800,Fit 1.3A G (New 5-yr COE),Honda,7160,08-Sep-2011,Hatchback,135400,https://i.i-sgcm.com/cars_used/202107/1014052_small.jpg
+99800,Q50 2.0T Premium,Infiniti,11280,27-Aug-2018,Luxury,66000,https://i.i-sgcm.com/cars_used/202107/1013445_small.jpg
+91800,Prius Plus Hybrid 1.8A,Toyota,11520,11-Jul-2018,MPV,53000,https://i.i-sgcm.com/cars_used/202107/1013307_small.jpg
+99800,Harrier 2.0A Turbo M,Toyota,13610,24-Aug-2017,SUV,52862,https://i.i-sgcm.com/cars_used/202107/1012899_small.jpg
+189800,Sorento Diesel 2.2A GT Tech Pack,Kia,17620,08-Feb-2021,SUV,4567,https://i.i-sgcm.com/cars_used/202107/1012618_small.jpg
+225888,S-Class S320L,Mercedes-Benz,29180,18-Jan-2017,Luxury,56000,https://i.i-sgcm.com/cars_used/202107/1011402_small.jpg
+73699,Corolla Altis 1.6A Standard,Toyota,9730,28-Feb-2018,Sedan,73000,https://i.i-sgcm.com/cars_used/202107/1011392_small.jpg
+74388,Prius Hybrid 1.8A S,Toyota,11300,19-Dec-2017,Hatchback,69000,https://i.i-sgcm.com/cars_used/202107/1010976_small.jpg
+66800,Accord 2.0A VTi-S,Honda,12070,21-Sep-2015,Luxury,109000,https://i.i-sgcm.com/cars_used/202107/1010887_small.jpg
+55500,Jetta GP 1.4A TSI,Volkswagen,8830,18-Nov-2016,Sedan,76193,https://i.i-sgcm.com/cars_used/202106/1009724_small.jpg
+488800,AMG GT 53 Coupe Mild Hybrid 4MATIC+,Mercedes-Benz,43390,01-Jul-2020,Sports,6123,https://i.i-sgcm.com/cars_used/202106/1009609_small.jpg
+106000,RX270 (New 10-yr COE),Lexus,10590,12-Jun-2012,SUV,90000,https://i.i-sgcm.com/cars_used/202106/1009295_small.jpg
+64800,Wish 1.8A X,Toyota,10550,29-Sep-2016,MPV,73224,https://i.i-sgcm.com/cars_used/202106/1008970_small.jpg
+33800,Vios 1.5A E (COE till 06/2026),Toyota,6940,22-Jun-2011,Sedan,120200,https://i.i-sgcm.com/cars_used/202106/1008818_small.jpg
+75515,X-Trail 2.0A Premium 7-Seater Sunroof,Nissan,11600,21-Jan-2017,SUV,77000,https://i.i-sgcm.com/cars_used/202106/1008582_small.jpg
+179800,X3 sDrive20i,BMW,18460,31-Dec-2019,SUV,32000,https://i.i-sgcm.com/cars_used/202106/1008440_small.jpg
+35800,Corolla Altis 1.6A (New 5-yr COE),Toyota,7160,13-Jul-2011,Sedan,139000,https://i.i-sgcm.com/cars_used/202106/1008302_small.jpg
+194500,X3 sDrive20i,BMW,18940,24-Jul-2020,SUV,8000,https://i.i-sgcm.com/cars_used/202106/1007467_small.jpg
+73800,Prius Hybrid 1.8A,Toyota,11300,23-Nov-2017,Hatchback,59120,https://i.i-sgcm.com/cars_used/202106/1006520_small.jpg
+75699,Wish 1.8A,Toyota,11010,27-Jul-2017,MPV,66000,https://i.i-sgcm.com/cars_used/202106/1004595_small.jpg
+215800,GLE-Class GLE450 Coupe AMG 4MATIC,Mercedes-Benz,31400,10-Jun-2016,SUV,47215,https://i.i-sgcm.com/cars_used/202106/1001899_small.jpg
+89800,Jade 1.5A RS,Honda,11060,07-May-2018,MPV,69817,https://i.i-sgcm.com/cars_used/202105/1000174_small.jpg
+69800,C-HR Hybrid 1.8A S,Toyota,10960,28-Sep-2017,SUV,43308,https://i.i-sgcm.com/cars_used/202105/1000053_small.jpg
+67800,Outlander 2.4A Sunroof,Mitsubishi,11080,15-Aug-2016,SUV,108388,https://i.i-sgcm.com/cars_used/202105/999123_small.jpg
+72800,Odyssey 2.4A EXV-S Sunroof,Honda,14090,09-Sep-2015,MPV,74605,https://i.i-sgcm.com/cars_used/202105/997561_small.jpg
+293800,Panamera 3.0A PDK,Porsche,35100,25-Apr-2017,Sports,80000,https://i.i-sgcm.com/cars_used/202105/997317_small.jpg
+99699,Camry 2.0A,Toyota,11910,08-Aug-2018,Luxury,68000,https://i.i-sgcm.com/cars_used/202105/997269_small.jpg
+66800,Vezel Hybrid 1.5A X,Honda,10990,08-Jun-2017,SUV,59416,https://i.i-sgcm.com/cars_used/202105/996910_small.jpg
+90800,2 Series 216d Active Tourer,BMW,11290,26-Jun-2018,Hatchback,49396,https://i.i-sgcm.com/cars_used/202105/995474_small.jpg
+144444,Panamera 3.6A PDK (COE till 04/2031),Porsche,14840,17-Jun-2011,Sports,139000,https://i.i-sgcm.com/cars_used/202105/995291_small.jpg
+64800,5 2.0A Sunroof,Mazda,9760,30-Mar-2017,MPV,64000,https://i.i-sgcm.com/cars_used/202105/994653_small.jpg
+29800,Swift Sport 1.6A (COE till 01/2025),Suzuki,8550,17-Jun-2010,Hatchback,106000,https://i.i-sgcm.com/cars_used/202105/993305_small.jpg
+138800,6 Series 640i Gran Coupe M-Sport,BMW,26970,28-Apr-2014,Luxury,86200,https://i.i-sgcm.com/cars_used/202105/991967_small.jpg
+102800,Karoq 1.5A TSI Ambition,Skoda,12010,27-Feb-2019,SUV,43988,https://i.i-sgcm.com/cars_used/202105/991415_small.jpg
+85699,Axela 1.5A,Mazda,9740,14-May-2019,Sedan,26000,https://i.i-sgcm.com/cars_used/202104/990587_small.jpg
+75800,C-HR 1.2A Turbo Active,Toyota,10120,30-Aug-2017,SUV,55500,https://i.i-sgcm.com/cars_used/202104/990514_small.jpg
+150800,4 Series 420i Coupe Sport,BMW,17170,28-Sep-2018,Sports,49200,https://i.i-sgcm.com/cars_used/202104/989512_small.jpg
+150800,4 Series 420i Coupe Sport,BMW,17170,28-Sep-2018,Sports,49200,https://i.i-sgcm.com/cars_used/202104/989512_small.jpg
+43800,5 2.0A Sunroof,Mazda,10410,10-Mar-2015,MPV,86500,https://i.i-sgcm.com/cars_used/202104/988235_small.jpg
+61800,Qashqai 1.2A DIG-T,Nissan,9750,31-Mar-2017,SUV,65330,https://i.i-sgcm.com/cars_used/202104/983338_small.jpg
+69800,5 2.0A Sunroof,Mazda,9880,16-Oct-2017,MPV,53319,https://i.i-sgcm.com/cars_used/202104/982929_small.jpg
+86800,HR-V 1.5A DX,Honda,9130,27-Dec-2019,SUV,27000,https://i.i-sgcm.com/cars_used/202103/979636_small.jpg
+48800,3 1.5A Sunroof,Mazda,9120,29-Apr-2016,Sedan,72000,https://i.i-sgcm.com/cars_used/202103/978128_small.jpg
+108800,Harrier 2.0A Elegance,Toyota,12540,19-Dec-2018,SUV,41000,https://i.i-sgcm.com/cars_used/202103/976529_small.jpg
+77800,Prius C Hybrid 1.5A,Toyota,10220,31-May-2018,Hatchback,51800,https://i.i-sgcm.com/cars_used/202101/964662_small.jpg
+76800,6 Wagon 2.5A Luxury,Mazda,11590,04-Nov-2016,Stationwagon,38238,https://i.i-sgcm.com/cars_used/202101/960165_small.jpg
+117800,XF 2.0A Prestige,Jaguar,14850,19-Jul-2017,Luxury,56000,https://i.i-sgcm.com/cars_used/202010/936971_small.jpg
+63800,Qashqai 1.2A DIG-T Premium,Nissan,9670,30-Jun-2017,SUV,23404,https://i.i-sgcm.com/cars_used/202108/1020102_small.jpg
+44800,Golf 1.4A TSI,Volkswagen,9910,28-Aug-2015,Hatchback,112328,https://i.i-sgcm.com/cars_used/202107/1018975_small.jpg
+73800,Freed Hybrid 1.5A G Sensing,Honda,12770,09-Mar-2017,MPV,52145,https://i.i-sgcm.com/cars_used/202107/1018384_small.jpg
+90800,Harrier 2.0A Elegance Panoramic,Toyota,12830,22-Jun-2017,SUV,57408,https://i.i-sgcm.com/cars_used/202107/1017390_small.jpg
+55800,Dyna 150 3.0M,Toyota,10510,29-Nov-2016,Truck,82000,https://i.i-sgcm.com/cars_used/202107/1016431_small.jpg
+44800,Note 1.2A,Nissan,8560,18-Jul-2016,Hatchback,33000,https://i.i-sgcm.com/cars_used/202107/1015903_small.jpg
+123000,Superb 2.0A TSI Ambition,Skoda,12000,24-Jul-2020,Luxury,7700,https://i.i-sgcm.com/cars_used/202107/1015039_small.jpg
+112888,ES250 Sunroof,Lexus,15760,31-May-2017,Luxury,102500,https://i.i-sgcm.com/cars_used/202107/1014840_small.jpg
+96888,S5 Sportback 3.0A TFSI Quattro (COE till 08/2030),Audi,10680,16-Nov-2010,Sports,100000,https://i.i-sgcm.com/cars_used/202107/1014802_small.jpg
+153000,Odyssey 2.4A EX-S,Honda,14270,17-Feb-2021,MPV,5999,https://i.i-sgcm.com/cars_used/202107/1014800_small.jpg
+78800,C-HR Hybrid 1.8A S,Toyota,12130,22-Nov-2017,SUV,81000,https://i.i-sgcm.com/cars_used/202107/1013880_small.jpg
+55800,Corolla Altis 1.6A,Toyota,10860,02-Nov-2015,Sedan,25200,https://i.i-sgcm.com/cars_used/202107/1013702_small.jpg
+17800,Vios 1.5A G Sports (COE till 09/2023),Toyota,8370,24-Sep-2008,Sedan,171000,https://i.i-sgcm.com/cars_used/202107/1012930_small.jpg
+120800,Noah Hybrid 1.8A X,Toyota,12820,11-Dec-2019,MPV,23308,https://i.i-sgcm.com/cars_used/202107/1012181_small.jpg
+49800,3 Series 316i,BMW,15870,09-Dec-2013,Luxury,74000,https://i.i-sgcm.com/cars_used/202107/1011784_small.jpg
+79800,Q30 Diesel 1.5T,Infiniti,10950,27-Dec-2017,Hatchback,39300,https://i.i-sgcm.com/cars_used/202107/1011358_small.jpg
+54800,3 1.5A Sunroof,Mazda,8960,07-Mar-2017,Sedan,65295,https://i.i-sgcm.com/cars_used/202107/1010745_small.jpg
+73800,6 2.0A Executive,Mazda,10310,24-Jul-2017,Luxury,72600,https://i.i-sgcm.com/cars_used/202107/1010436_small.jpg
+78800,C-Class C180K Avantgarde (New 10-yr COE),Mercedes-Benz,7880,30-Apr-2012,Luxury,71000,https://i.i-sgcm.com/cars_used/202106/1009733_small.jpg
+54800,Corolla Altis 1.6A Classic,Toyota,9520,01-Jun-2016,Sedan,65500,https://i.i-sgcm.com/cars_used/202106/1009030_small.jpg
+137800,A5 Sportback 2.0A TFSI S-tronic Design,Audi,17010,16-May-2018,Luxury,56000,https://i.i-sgcm.com/cars_used/202106/1009001_small.jpg
+131800,Megane RS 1.8A TCe,Renault,15180,14-Feb-2019,Sports,17000,https://i.i-sgcm.com/cars_used/202106/1007642_small.jpg
+52800,2 1.5A Deluxe,Mazda,8470,18-Jan-2017,Sedan,85154,https://i.i-sgcm.com/cars_used/202106/1005579_small.jpg
+54800,Vezel 1.5A X,Honda,10430,20-May-2016,SUV,79000,https://i.i-sgcm.com/cars_used/202106/1003709_small.jpg
+23800,Allion 1.5A (COE till 07/2024),Toyota,8160,09-Jul-2009,Sedan,138000,https://i.i-sgcm.com/cars_used/202106/1003555_small.jpg
+35000,A3 Sportback 1.4A TFSI S-tronic Ambiente,Audi,12230,28-Nov-2013,Hatchback,94653,https://i.i-sgcm.com/cars_used/202106/1002205_small.jpg
+46800,NV350 2.5A,Nissan,10320,19-Feb-2016,Van,80241,https://i.i-sgcm.com/cars_used/202106/1001261_small.jpg
+66800,3 1.5A Sunroof,Mazda,8910,11-Apr-2018,Sedan,62617,https://i.i-sgcm.com/cars_used/202105/998647_small.jpg
+81800,C-Class C180 Avantgarde,Mercedes-Benz,17540,14-May-2015,Luxury,98000,https://i.i-sgcm.com/cars_used/202105/997701_small.jpg
+75800,Avante 1.6A GLS,Hyundai,8220,16-Jan-2020,Sedan,31000,https://i.i-sgcm.com/cars_used/202105/997634_small.jpg
+136800,M Series M5 Sunroof,BMW,39750,15-Mar-2013,Sports,85874,https://i.i-sgcm.com/cars_used/202105/997315_small.jpg
+149800,Macan S 3.0A PDK,Porsche,32210,02-Sep-2014,SUV,128000,https://i.i-sgcm.com/cars_used/202105/997244_small.jpg
+76800,Jazz 1.5A RS,Honda,8570,30-Jul-2019,Hatchback,51283,https://i.i-sgcm.com/cars_used/202105/997185_small.jpg
+52888,Elantra 1.6A GLS Elite,Hyundai,9360,30-Apr-2016,Sedan,65835,https://i.i-sgcm.com/cars_used/202105/995660_small.jpg
+56688,Qashqai 1.2A DIG-T,Nissan,10420,16-May-2016,SUV,101000,https://i.i-sgcm.com/cars_used/202105/994612_small.jpg
+17388,Fit 1.3A G (COE till 09/2023),Honda,8190,23-Sep-2008,Hatchback,135000,https://i.i-sgcm.com/cars_used/202105/994411_small.jpg
+63800,Shuttle 1.5A G LED,Honda,9800,31-Aug-2017,Stationwagon,58000,https://i.i-sgcm.com/cars_used/202105/993636_small.jpg
+75800,Fit 1.3A G F-Package,Honda,8070,21-Aug-2020,Hatchback,10536,https://i.i-sgcm.com/cars_used/202105/992959_small.jpg
+62800,Sonata 2.0A GLS,Hyundai,9230,05-May-2017,Luxury,85180,https://i.i-sgcm.com/cars_used/202105/991791_small.jpg
+74800,Avante 1.6A GLS S,Hyundai,8480,23-Jul-2019,Sedan,24028,https://i.i-sgcm.com/cars_used/202104/988713_small.jpg
+203988,GLB-Class GLB200 AMG Line Premium Plus,Mercedes-Benz,18440,23-Feb-2021,SUV,20,https://i.i-sgcm.com/cars_used/202103/972703_small.jpg
+71800,Fit 1.3A G F-Package,Honda,8190,09-Jan-2020,Hatchback,15124,https://i.i-sgcm.com/cars_used/202107/1018865_small.jpg
+259500,R8 Spyder 5.2A FSI Quattro R-tronic (COE till 01/2031),Audi,27560,06-Jan-2011,Sports,52500,https://i.i-sgcm.com/cars_used/202107/1016390_small.jpg
+48800,XV 1.6i-S,Subaru,11040,25-Jun-2015,SUV,65000,https://i.i-sgcm.com/cars_used/202107/1013606_small.jpg
+147800,4 Series 420i Gran Coupe,BMW,15090,29-Aug-2019,Luxury,39000,https://i.i-sgcm.com/cars_used/202105/997371_small.jpg
+15333,Corolla Altis 1.6A (COE till 05/2023),Toyota,8600,22-May-2008,Sedan,141400,https://i.i-sgcm.com/cars_used/202105/996927_small.jpg
+46800,Elantra 1.6A GLS,Hyundai,10060,20-Aug-2015,Sedan,89000,https://i.i-sgcm.com/cars_used/202105/992469_small.jpg
+44800,NV200 1.5M,Nissan,7700,02-Jun-2017,Van,95000,https://i.i-sgcm.com/cars_used/202104/988497_small.jpg
+156888,Cayenne 3.6A Tip (New 10-yr COE),Porsche,15680,14-Nov-2011,SUV,90000,https://i.i-sgcm.com/cars_used/202108/1020120_small.jpg
+78800,Sienta 1.5A Standard,Toyota,9130,09-Apr-2019,MPV,53218,https://i.i-sgcm.com/cars_used/202108/1020110_small.jpg
+106888,Civic 1.5A VTEC Turbo Sunroof,Honda,12400,16-Jan-2019,Sedan,39000,https://i.i-sgcm.com/cars_used/202108/1019917_small.jpg
+61800,2 Series 218i Active Tourer,BMW,12600,21-Aug-2015,Hatchback,58000,https://i.i-sgcm.com/cars_used/202108/1019098_small.jpg
+142800,C-Class C180 Avantgarde,Mercedes-Benz,15220,31-Jul-2019,Luxury,29000,https://i.i-sgcm.com/cars_used/202107/1018429_small.jpg
+59388,Corolla Altis 1.6A Elegance,Toyota,10650,04-Apr-2016,Sedan,103000,https://i.i-sgcm.com/cars_used/202107/1015387_small.jpg
+72800,Hiace 2.8A DX,Toyota,9210,02-Jul-2019,Van,70000,https://i.i-sgcm.com/cars_used/202107/1013578_small.jpg
+299888,911 Turbo Tip (COE till 08/2030),Porsche,33070,02-Jan-2001,Sports,160000,https://i.i-sgcm.com/cars_used/202107/1010719_small.jpg
+66388,Shuttle 1.5A G,Honda,10150,31-Aug-2017,Stationwagon,62000,https://i.i-sgcm.com/cars_used/202107/1010423_small.jpg
+73688,A6 2.0A TFSI MU,Audi,14280,30-Apr-2015,Luxury,89000,https://i.i-sgcm.com/cars_used/202107/1010126_small.jpg
+145000,C-Class C160 Avantgarde,Mercedes-Benz,14080,09-Jul-2020,Luxury,18000,https://i.i-sgcm.com/cars_used/202106/1007262_small.jpg
+92800,Civic 1.5A VTEC Turbo Sunroof,Honda,13170,28-Sep-2017,Sedan,75888,https://i.i-sgcm.com/cars_used/202106/1001893_small.jpg
+55000,Jazz 1.5A,Honda,9880,26-Jul-2016,Hatchback,85000,https://i.i-sgcm.com/cars_used/202106/1001882_small.jpg
+38800,Elantra 1.6A Elite (New 5-yr COE),Hyundai,7760,12-Sep-2011,Sedan,150000,https://i.i-sgcm.com/cars_used/202106/1001874_small.jpg
+65800,3 1.5A Deluxe,Mazda,10240,02-May-2017,Sedan,22000,https://i.i-sgcm.com/cars_used/202106/1001863_small.jpg
+71888,Sienta Hybrid 1.5A X,Toyota,11450,29-Aug-2017,MPV,48000,https://i.i-sgcm.com/cars_used/202106/1001855_small.jpg
+68800,Wish 1.8A Elegance (COE till 05/2031),Toyota,7010,07-Jun-2011,MPV,98000,https://i.i-sgcm.com/cars_used/202106/1001839_small.jpg
+78800,Hiace 2.8A DX GL,Toyota,8700,28-Aug-2020,Van,21000,https://i.i-sgcm.com/cars_used/202106/1001831_small.jpg
+16200,Fit 1.3A G (COE till 10/2023),Honda,7290,29-Oct-2008,Hatchback,128000,https://i.i-sgcm.com/cars_used/202106/1001830_small.jpg
+1085888,Aventador LP720-4 50th Anniversary,Lamborghini,225090,09-Jul-2014,Sports,10888,https://i.i-sgcm.com/cars_used/202106/1001827_small.jpg
+150000,Previa 2.4A Aeras Luxury Moonroof,Toyota,15770,31-Oct-2019,MPV,15000,https://i.i-sgcm.com/cars_used/202106/1001823_small.jpg
+850000,488 Spider,Ferrari,97820,27-Oct-2017,Sports,7600,https://i.i-sgcm.com/cars_used/202106/1001821_small.jpg
+82800,Passat CC 1.8T (New 10-yr COE),Volkswagen,8280,31-Aug-2011,Luxury,119000,https://i.i-sgcm.com/cars_used/202106/1001809_small.jpg
+248800,Cayenne 3.6A Tip,Porsche,31760,19-Jul-2017,SUV,47500,https://i.i-sgcm.com/cars_used/202106/1001799_small.jpg
+98800,Fairlady 370Z Roadster (COE till 10/2030),Nissan,10700,13-Nov-2010,Sports,117021,https://i.i-sgcm.com/cars_used/202106/1001788_small.jpg
+118800,200SX S13 (COE till 01/2029),Nissan,15870,05-Feb-1991,Sports,118000,https://i.i-sgcm.com/cars_used/202106/1001744_small.jpg
+15800,Jazz 1.3A (COE till 09/2023),Honda,7370,24-Nov-2008,Hatchback,130000,https://i.i-sgcm.com/cars_used/202106/1001715_small.jpg
+81988,Fit 1.3A,Honda,8210,12-Apr-2021,Hatchback,31,https://i.i-sgcm.com/cars_used/202106/1001703_small.jpg
+57800,HR-V 1.5A LX,Honda,9600,23-Aug-2016,SUV,71219,https://i.i-sgcm.com/cars_used/202106/1001676_small.jpg
+81800,Sharan 2.0A TSI,Volkswagen,13910,13-Nov-2015,MPV,102000,https://i.i-sgcm.com/cars_used/202106/1001661_small.jpg
+43800,Cerato K3 1.6A EX (OPC),Kia,7960,09-Mar-2016,Sedan,67512,https://i.i-sgcm.com/cars_used/202106/1001650_small.jpg
+52800,Odyssey 2.4A (COE till 04/2029),Honda,6830,26-May-2009,MPV,123000,https://i.i-sgcm.com/cars_used/202106/1001642_small.jpg
+137988,Camry Hybrid 2.5A Ascent Sport,Toyota,13290,09-Feb-2021,Luxury,68,https://i.i-sgcm.com/cars_used/202106/1001614_small.jpg
+81988,Fit 1.3A,Honda,8170,30-Apr-2021,Hatchback,68,https://i.i-sgcm.com/cars_used/202106/1001613_small.jpg
+96988,Vezel 1.5A X,Honda,9610,19-Mar-2021,SUV,68,https://i.i-sgcm.com/cars_used/202106/1001610_small.jpg
+155988,Harrier Hybrid 2.5A S,Toyota,14470,29-Mar-2021,SUV,68,https://i.i-sgcm.com/cars_used/202106/1001608_small.jpg
+203988,GLB-Class GLB200 AMG Line Premium Plus,Mercedes-Benz,18060,10-May-2021,SUV,68,https://i.i-sgcm.com/cars_used/202106/1001605_small.jpg
+249000,Continental GT 6.0A Supersport (New 10-yr COE),Bentley,24890,26-Aug-2011,Sports,25263,https://i.i-sgcm.com/cars_used/202106/1001586_small.jpg
+78800,Q30 Diesel 1.5T,Infiniti,10940,30-Nov-2017,Hatchback,49000,https://i.i-sgcm.com/cars_used/202106/1001579_small.jpg
+9000,Stream 1.8A (COE till 03/2022),Honda,13980,06-Jun-2007,MPV,190000,https://i.i-sgcm.com/cars_used/202106/1001576_small.jpg
+24800,Civic 2.0A (COE till 02/2024),Honda,9940,06-Feb-2009,Sedan,147000,https://i.i-sgcm.com/cars_used/202106/1001575_small.jpg
+75000,Vezel 1.5A X,Honda,10380,29-Mar-2018,SUV,70000,https://i.i-sgcm.com/cars_used/202106/1001571_small.jpg
+45000,Corolla Altis 1.6A (COE till 04/2028),Toyota,6680,28-Nov-2008,Sedan,220818,https://i.i-sgcm.com/cars_used/202106/1001569_small.jpg
+42888,Latio 1.5A (COE till 12/2028),Nissan,5840,10-Dec-2008,Sedan,130000,https://i.i-sgcm.com/cars_used/202106/1001556_small.jpg
+88800,3 Series 325i Coupe Sunroof (New 10-yr COE),BMW,8880,22-Aug-2011,Sports,80000,https://i.i-sgcm.com/cars_used/202106/1001149_small.jpg
+38000,Boxster 2.5A Tip (COE till 03/2023),Porsche,23120,21-May-1998,Sports,134000,https://i.i-sgcm.com/cars_used/202105/995064_small.jpg
+150800,C-Class C160 Avantgarde,Mercedes-Benz,14260,12-Oct-2020,Luxury,11500,https://i.i-sgcm.com/cars_used/202105/995004_small.jpg
+193000,Panamera V6 3.6A Platinum Edition PDK,Porsche,79700,30-Apr-2013,Sedan,30000,https://i.i-sgcm.com/cars_used/202105/994983_small.jpg
+400000,911 C2 Coupe (COE till 03/2025),Porsche,109690,29-Aug-1995,Sports,113792,https://i.i-sgcm.com/cars_used/202105/994893_small.jpg
+92000,9-5 2.0T Vector (COE till 01/2031),Saab,9770,07-Jan-2011,Luxury,84000,https://i.i-sgcm.com/cars_used/202105/994891_small.jpg
+67800,Crossland 1.2A X Turbo Enjoy,Opel,7950,21-Jun-2018,SUV,79000,https://i.i-sgcm.com/cars_used/202105/994861_small.jpg
+77800,5 Series 523i (COE till 12/2030),BMW,8270,21-Jan-2011,Luxury,127033,https://i.i-sgcm.com/cars_used/202105/994828_small.jpg
+36800,Doblo Cargo Maxi 1.6A Multijet Glaze,Fiat,7410,26-Jul-2016,Van,97000,https://i.i-sgcm.com/cars_used/202105/993301_small.jpg
+76800,Wish 1.8A X,Toyota,11490,24-May-2017,MPV,50000,https://i.i-sgcm.com/cars_used/202105/992679_small.jpg
+20800,Allion 1.5A (COE till 03/2024),Toyota,8110,02-Mar-2009,Sedan,142000,https://i.i-sgcm.com/cars_used/202104/989343_small.jpg
+415988,Cayenne Coupe 3.0A,Porsche,34280,29-Mar-2021,SUV,31,https://i.i-sgcm.com/cars_used/202103/981249_small.jpg
+69000,Odyssey 2.4A EXV-S Navi Res Sunroof,Honda,12390,06-Nov-2015,MPV,153000,https://i.i-sgcm.com/cars_used/202103/981216_small.jpg
+145800,A5 Sportback 2.0A TFSI S-tronic Design,Audi,15290,26-Aug-2019,Luxury,43000,https://i.i-sgcm.com/cars_used/202103/981203_small.jpg
+140988,Superb Laurin & Klement 2.0A TSI,Skoda,12910,14-Jan-2021,Luxury,5000,https://i.i-sgcm.com/cars_used/202103/981197_small.jpg
+72000,Avante 1.6A GLS,Hyundai,8170,19-Aug-2019,Sedan,40000,https://i.i-sgcm.com/cars_used/202103/981118_small.jpg
+48500,5 2.0A Sunroof,Mazda,9760,31-Aug-2015,MPV,85000,https://i.i-sgcm.com/cars_used/202103/981108_small.jpg
+44800,Polo 1.4A (COE till 05/2029),Volkswagen,5730,16-Dec-2009,Hatchback,101172,https://i.i-sgcm.com/cars_used/202103/981040_small.jpg
+98800,E-Class E200 Elegance (New 10-yr COE),Mercedes-Benz,9870,12-Apr-2012,Luxury,118000,https://i.i-sgcm.com/cars_used/202103/977226_small.jpg
+71888,Cerato K3 1.6A SX Sunroof,Kia,9760,08-Mar-2018,Sedan,41000,https://i.i-sgcm.com/cars_used/202103/974295_small.jpg
+160888,Panamera 4 3.6A PDK (COE till 03/2030),Porsche,18600,13-Aug-2010,Sports,144000,https://i.i-sgcm.com/cars_used/202103/974228_small.jpg
+112500,Rover Defender 90 Puma (COE till 08/2028),Land,15950,26-Aug-2008,Truck,125000,https://i.i-sgcm.com/cars_used/202103/974221_small.jpg
+412988,Cayenne Coupe 3.0A,Porsche,35490,21-Jan-2021,SUV,50,https://i.i-sgcm.com/cars_used/202101/962452_small.jpg
+16300,Wish 1.8A (COE till 10/2023),Toyota,7310,12-Mar-2009,MPV,144014,https://i.i-sgcm.com/cars_used/202101/962434_small.jpg
+110800,Alphard 2.5A S Moonroof,Toyota,19060,29-Mar-2016,MPV,75000,https://i.i-sgcm.com/cars_used/202101/962142_small.jpg
+916911,911 Turbo S Coupe 3.8A PDK,Porsche,78630,16-Oct-2020,Sports,88,https://i.i-sgcm.com/cars_used/202011/945309_small.jpg
+208988,Alphard Hybrid 2.5A X,Toyota,19520,25-Sep-2020,MPV,652,https://i.i-sgcm.com/cars_used/202011/944792_small.jpg
+113000,NX Turbo NX200t Executive,Lexus,16680,08-Nov-2016,SUV,86500,https://i.i-sgcm.com/cars_used/202009/926950_small.jpg
+65800,Vellfire 2.4A Z G-Edition,Toyota,23000,28-May-2013,MPV,102000,https://i.i-sgcm.com/cars_used/202007/909619_small.jpg
+41800,Camry 2.0A (COE till 03/2024),Toyota,15790,27-May-2009,Luxury,157000,https://i.i-sgcm.com/cars_used/202002/884090_small.jpg
+391888,GranTurismo Sport 4.7A,Maserati,37850,22-May-2019,Sports,40000,https://i.i-sgcm.com/cars_used/201910/862412_small.jpg
+68000,Civic 1.6A VTi,Honda,9920,30-May-2017,Sedan,77000,https://i.i-sgcm.com/cars_used/202107/1015132_small.jpg
+51888,Jazz 1.5A RS,Honda,10500,18-Jan-2016,Hatchback,78000,https://i.i-sgcm.com/cars_used/202108/1021188_small.jpg
+106800,Harrier 2.0A Turbo G Panoramic,Toyota,13830,20-Oct-2017,SUV,50000,https://i.i-sgcm.com/cars_used/202107/1016643_small.jpg
+69800,Vezel 1.5A X Sensing,Honda,10460,24-Aug-2017,SUV,47000,https://i.i-sgcm.com/cars_used/202107/1015336_small.jpg
+108800,Estima 2.4A Aeras G Premium,Toyota,15290,17-Mar-2017,MPV,55364,https://i.i-sgcm.com/cars_used/202106/1007840_small.jpg
+49999,3 Series 318i Sunroof (New 5-yr COE),BMW,9990,21-Sep-2011,Luxury,109388,https://i.i-sgcm.com/cars_used/202106/1007156_small.jpg
+76800,CLA-Class CLA180,Mercedes-Benz,15740,25-Aug-2015,Luxury,120000,https://i.i-sgcm.com/cars_used/202106/1006616_small.jpg
+86800,5 Series 523i Sunroof (COE till 07/2030),BMW,9660,27-Aug-2010,Luxury,179293,https://i.i-sgcm.com/cars_used/202108/1021193_small.jpg
+159988,S2000 Type S 2.2M (COE till 05/2028),Honda,23570,22-May-2008,Sports,89000,https://i.i-sgcm.com/cars_used/202108/1021192_small.jpg
+168800,Panamera 3.6A PDK (New 10-yr COE),Porsche,16870,13-Aug-2012,Sports,99958,https://i.i-sgcm.com/cars_used/202108/1021189_small.jpg
+151999,A4 Mild Hybrid 2.0A TFSI S-tronic,Audi,14010,29-Dec-2020,Luxury,8000,https://i.i-sgcm.com/cars_used/202107/1018832_small.jpg
+81999,A3 Sportback 1.0A TFSI S-tronic,Audi,11680,11-Dec-2017,Hatchback,68000,https://i.i-sgcm.com/cars_used/202107/1018776_small.jpg
+227999,5 Series 520i Mild Hybrid M-Sport,BMW,20950,30-Sep-2020,Luxury,11000,https://i.i-sgcm.com/cars_used/202107/1018765_small.jpg
+181900,Cooper S Countryman 2.0A,MINI,16580,25-Jan-2021,Sports,9000,https://i.i-sgcm.com/cars_used/202107/1013968_small.jpg
+29800,Stream 1.8A (COE till 01/2025),Honda,8730,06-Jan-2010,MPV,135000,https://i.i-sgcm.com/cars_used/202105/996428_small.jpg
+73800,Avante 1.6A GLS S,Hyundai,8280,15-Aug-2019,Sedan,50983,https://i.i-sgcm.com/cars_used/202108/1021187_small.jpg
+52800,7 Series 730Li Sunroof,BMW,28420,24-Feb-2012,Luxury,140000,https://i.i-sgcm.com/cars_used/202107/1013402_small.jpg
+36800,Partner 1.6A HDi LWB,Peugeot,8630,12-Nov-2015,Van,59000,https://i.i-sgcm.com/cars_used/202107/1012656_small.jpg
+159800,Rover Discovery Sport 2.0A SE 7-Seater Sunroof,Land,17130,12-Jun-2019,SUV,40000,https://i.i-sgcm.com/cars_used/202105/992545_small.jpg
+154800,TT Roadster 1.8A TFSI S-tronic,Audi,19630,07-Feb-2018,Sports,28400,https://i.i-sgcm.com/cars_used/202104/986424_small.jpg
+158800,X1 sDrive20i M-Sport,BMW,14750,21-Aug-2020,SUV,9000,https://i.i-sgcm.com/cars_used/202103/981014_small.jpg
+14800,Vios 1.5A E Sports (COE till 08/2023),Toyota,7370,12-Aug-2008,Sedan,180000,https://i.i-sgcm.com/cars_used/202108/1021186_small.jpg
+72800,Odyssey 2.4A EXV-S Navi Res Sunroof,Honda,14540,01-Jul-2015,MPV,98967,https://i.i-sgcm.com/cars_used/202108/1019158_small.jpg
+99800,Q7 3.0A TDI Quattro (COE till 08/2030),Audi,11010,09-Nov-2010,SUV,67000,https://i.i-sgcm.com/cars_used/202107/1018262_small.jpg
+41800,Corolla Altis 1.6A,Toyota,10640,12-Nov-2014,Sedan,98064,https://i.i-sgcm.com/cars_used/202107/1014699_small.jpg
+36800,NV200 1.5M,Nissan,8290,15-Jan-2016,Van,97000,https://i.i-sgcm.com/cars_used/202107/1013850_small.jpg
+46300,Corolla Altis 1.6A (COE till 04/2029),Toyota,5990,11-May-2009,Sedan,166375,https://i.i-sgcm.com/cars_used/202106/1009144_small.jpg
+44800,Vezel 1.5A X,Honda,11230,12-Mar-2015,SUV,75505,https://i.i-sgcm.com/cars_used/202106/1007366_small.jpg
+60800,Vanguard 2.4A S (COE till 03/2029),Toyota,7950,15-Apr-2009,SUV,135316,https://i.i-sgcm.com/cars_used/202106/1005927_small.jpg
+56800,Pulsar 1.2A DIG-T Premium,Nissan,9180,18-May-2017,Hatchback,41000,https://i.i-sgcm.com/cars_used/202105/999109_small.jpg
+76800,C-Class C180K Avantgarde (COE till 04/2031),Mercedes-Benz,7890,01-Jul-2011,Luxury,120600,https://i.i-sgcm.com/cars_used/202105/996059_small.jpg
+91800,Sienta 1.5A Elegance,Toyota,9720,22-Jan-2020,MPV,27000,https://i.i-sgcm.com/cars_used/202108/1021179_small.jpg
+220000,M Series M3 Sedan,BMW,35750,20-May-2016,Sports,96000,https://i.i-sgcm.com/cars_used/202107/1016073_small.jpg
+73800,Note 1.2A,Nissan,7850,27-Jul-2020,Hatchback,10634,https://i.i-sgcm.com/cars_used/202105/991522_small.jpg
+153800,GLC-Class GLC250 Coupe AMG Line 4MATIC,Mercedes-Benz,21640,05-May-2017,SUV,98000,https://i.i-sgcm.com/cars_used/202108/1021142_small.jpg
+36888,Lancer 1.6M GLX (COE till 06/2026),Mitsubishi,7530,19-Jul-2006,Sedan,208000,https://i.i-sgcm.com/cars_used/202108/1020999_small.jpg
+49800,Attrage 1.2A Sports (OPC),Mitsubishi,5920,02-Aug-2019,Sedan,15900,https://i.i-sgcm.com/cars_used/202107/1018623_small.jpg
+60800,Fit 1.3A G F-Package,Honda,8460,28-Jun-2018,Hatchback,35000,https://i.i-sgcm.com/cars_used/202107/1012358_small.jpg
+31800,Swift 1.4A GLX,Suzuki,11480,06-Feb-2014,Hatchback,63900,https://i.i-sgcm.com/cars_used/202108/1021178_small.jpg
+85800,CLA-Class CLA180,Mercedes-Benz,15300,09-May-2016,Luxury,81191,https://i.i-sgcm.com/cars_used/202108/1019764_small.jpg
+56000,Vezel 1.5A X Sensing,Honda,9710,05-Oct-2016,SUV,88000,https://i.i-sgcm.com/cars_used/202105/995364_small.jpg
+58800,Cascada 1.6A Turbo,Opel,13270,11-Jun-2014,Sports,47000,https://i.i-sgcm.com/cars_used/202108/1021177_small.jpg
+103800,Voxy Hybrid 1.8A X,Toyota,13910,27-Feb-2018,MPV,37300,https://i.i-sgcm.com/cars_used/202108/1021176_small.jpg
+69800,Vios 1.5A E,Toyota,8400,29-Jan-2019,Sedan,35000,https://i.i-sgcm.com/cars_used/202108/1019234_small.jpg
+58000,Vezel 1.5A X Sensing,Honda,9540,16-Jan-2017,SUV,72000,https://i.i-sgcm.com/cars_used/202107/1013435_small.jpg
+63800,Odyssey 2.4A EX-S 8-Seater,Honda,14000,18-Mar-2015,MPV,84648,https://i.i-sgcm.com/cars_used/202105/991569_small.jpg
+68800,Corolla Altis 1.6A Elegance,Toyota,10190,16-May-2017,Sedan,64738,https://i.i-sgcm.com/cars_used/202107/1018761_small.jpg
+26800,Cerato Forte Koup 1.6A SX Sunroof (COE till 02/2025),Kia,7520,22-Mar-2010,Sports,237000,https://i.i-sgcm.com/cars_used/202108/1021174_small.jpg
+77800,Forester 2.0i-L Sunroof,Subaru,10310,28-Jun-2018,SUV,72000,https://i.i-sgcm.com/cars_used/202108/1021173_small.jpg
+106800,XC90 T5 (New 10-yr COE),Volvo,10670,25-Jul-2012,SUV,65600,https://i.i-sgcm.com/cars_used/202108/1021163_small.jpg
+88000,6 2.0A,Mazda,10990,27-Sep-2018,Luxury,18500,https://i.i-sgcm.com/cars_used/202108/1021160_small.jpg
+157000,Harrier 2.0A G,Toyota,13770,07-May-2021,SUV,600,https://i.i-sgcm.com/cars_used/202107/1015176_small.jpg
+65800,Vezel Hybrid 1.5A X,Honda,10450,29-Aug-2017,SUV,53000,https://i.i-sgcm.com/cars_used/202107/1014866_small.jpg
+59800,3 1.5A Sunroof,Mazda,9170,31-Jul-2017,Sedan,58000,https://i.i-sgcm.com/cars_used/202107/1012129_small.jpg
+66800,Fit 1.3A G F-Package,Honda,8580,24-Jan-2019,Hatchback,45168,https://i.i-sgcm.com/cars_used/202107/1011994_small.jpg
+78800,Cerato 1.6A LX,Kia,8770,29-Nov-2019,Sedan,20000,https://i.i-sgcm.com/cars_used/202105/997316_small.jpg
+66800,Fit 1.3A GF,Honda,8310,16-Apr-2019,Hatchback,52700,https://i.i-sgcm.com/cars_used/202108/1021170_small.jpg
+130800,GLA-Class GLA180 Urban Edition,Mercedes-Benz,12930,13-Aug-2020,SUV,20151,https://i.i-sgcm.com/cars_used/202108/1021169_small.jpg
+142800,Noah Hybrid 1.8A X,Toyota,13180,02-Aug-2021,MPV,300,https://i.i-sgcm.com/cars_used/202108/1020948_small.jpg
+37800,Viva 1.0A EZI (COE till 09/2029),Perodua,4640,10-Oct-2009,Hatchback,161000,https://i.i-sgcm.com/cars_used/202108/1019797_small.jpg
+65800,Camry 2.5A,Toyota,11580,04-Dec-2015,Luxury,121000,https://i.i-sgcm.com/cars_used/202107/1017908_small.jpg
+20800,Dyna 150 3.0M,Toyota,32030,03-Apr-2012,Truck,216000,https://i.i-sgcm.com/cars_used/202107/1015340_small.jpg
+139500,GranTurismo S Cambiocorsa (COE till 04/2029),Maserati,18040,11-Dec-2009,Sports,90000,https://i.i-sgcm.com/cars_used/202107/1014803_small.jpg
+65800,Cerato K3 1.6A SX Sunroof,Kia,9320,26-Oct-2017,Sedan,42145,https://i.i-sgcm.com/cars_used/202107/1012565_small.jpg
+56800,City 1.5A SV,Honda,9420,19-Dec-2016,Sedan,68716,https://i.i-sgcm.com/cars_used/202107/1012336_small.jpg
+127800,E-Class E200 Avantgarde,Mercedes-Benz,17530,06-Jan-2017,Luxury,69000,https://i.i-sgcm.com/cars_used/202106/1005370_small.jpg
+39800,3 1.6A (New 5-yr COE),Mazda,7960,22-Jul-2011,Sedan,80000,https://i.i-sgcm.com/cars_used/202105/992694_small.jpg
+77800,Harrier 2.0A Elegance,Toyota,13660,11-May-2016,SUV,78205,https://i.i-sgcm.com/cars_used/202104/982933_small.jpg
+53800,2 1.5A Deluxe,Mazda,8700,30-Dec-2016,Sedan,72865,https://i.i-sgcm.com/cars_used/202108/1021168_small.jpg
+80800,CLA-Class CLA180 Shooting Brake,Mercedes-Benz,14630,11-Feb-2016,Stationwagon,69000,https://i.i-sgcm.com/cars_used/202108/1021167_small.jpg
+159800,E-Class E250 Avantgarde,Mercedes-Benz,18700,06-Feb-2018,Luxury,48000,https://i.i-sgcm.com/cars_used/202107/1015896_small.jpg
+56800,Legacy 2.5i-S Sunroof,Subaru,10840,27-Nov-2015,Luxury,87707,https://i.i-sgcm.com/cars_used/202107/1015776_small.jpg
+55800,Forester 2.0i-L Sunroof,Subaru,12300,31-Jul-2015,SUV,80947,https://i.i-sgcm.com/cars_used/202107/1014335_small.jpg
+118800,7 Series 740Li Luxury Sunroof (New 10-yr COE),BMW,11870,18-Nov-2011,Luxury,77000,https://i.i-sgcm.com/cars_used/202107/1012973_small.jpg
+99888,Sienta Hybrid 1.5A G LED Safety Sense,Toyota,10450,12-Mar-2020,MPV,20926,https://i.i-sgcm.com/cars_used/202108/1021162_small.jpg
+55800,Mobilio 1.5A RS i-VTEC Luxe,Honda,10930,23-Oct-2015,MPV,122749,https://i.i-sgcm.com/cars_used/202106/1008781_small.jpg
+45800,Vezel 1.5A X,Honda,9920,06-Oct-2015,SUV,82248,https://i.i-sgcm.com/cars_used/202108/1021161_small.jpg
+13000,Combo 1.3A (COE till 07/2023),Opel,6570,01-Aug-2008,Van,230000,https://i.i-sgcm.com/cars_used/202108/1021158_small.jpg
+75800,Cooper S 1.6A Mayfair Sunroof (COE till 08/2030),MINI,8410,13-Aug-2010,Sports,56416,https://i.i-sgcm.com/cars_used/202108/1021159_small.jpg
+61800,Golf 1.4A TSI,Volkswagen,10830,26-Oct-2016,Hatchback,89000,https://i.i-sgcm.com/cars_used/202104/986155_small.jpg
+17500,Corolla Altis 1.6A,Toyota,15430,02-Apr-2012,Sedan,139000,https://i.i-sgcm.com/cars_used/202108/1021157_small.jpg
+116800,Scirocco R 2.0A (New 10-yr COE),Volkswagen,11670,28-May-2013,Sports,126000,https://i.i-sgcm.com/cars_used/202108/1021156_small.jpg
+178000,GLC-Class GLC250 4MATIC,Mercedes-Benz,19430,23-May-2019,SUV,19500,https://i.i-sgcm.com/cars_used/202108/1021145_small.jpg
+211888,GLC-Class GLC250 Coupe AMG Line 4MATIC,Mercedes-Benz,21900,24-Oct-2019,SUV,35000,https://i.i-sgcm.com/cars_used/202108/1021129_small.jpg
+232800,Rover Range Rover Velar 2.0A Si4 R-Dynamic,Land,24180,12-Apr-2019,SUV,8700,https://i.i-sgcm.com/cars_used/202108/1021005_small.jpg
+52888,Cooper 1.6A (COE till 04/2029),MINI,6840,24-Mar-2010,Hatchback,111000,https://i.i-sgcm.com/cars_used/202106/1005410_small.jpg
+149800,S-Class S400L Hybrid,Mercedes-Benz,26400,02-Jun-2014,Luxury,143000,https://i.i-sgcm.com/cars_used/202108/1021154_small.jpg
+41800,Corolla Altis 1.6A (COE till 11/2027),Toyota,6620,27-May-2008,Sedan,137200,https://i.i-sgcm.com/cars_used/202108/1021153_small.jpg
+18488,Corolla Altis 1.6A (COE till 12/2023),Toyota,7860,15-Dec-2008,Sedan,100500,https://i.i-sgcm.com/cars_used/202107/1018955_small.jpg
+239888,R8 5.2A FSI Quattro R-tronic (COE till 01/2030),Audi,28420,15-Jan-2010,Sports,56000,https://i.i-sgcm.com/cars_used/202107/1015192_small.jpg
+71800,Camry 2.5A,Toyota,11310,28-Jun-2016,Luxury,92175,https://i.i-sgcm.com/cars_used/202108/1021152_small.jpg
+133800,A-Class A200 AMG Line,Mercedes-Benz,14320,06-Aug-2019,Hatchback,24000,https://i.i-sgcm.com/cars_used/202108/1021147_small.jpg
+69800,Wish 1.8A Elegance,Toyota,10750,02-Mar-2017,MPV,47000,https://i.i-sgcm.com/cars_used/202108/1021146_small.jpg
+72800,Golf GTI 5DR (COE till 02/2029),Volkswagen,9660,19-Feb-2009,Sports,212800,https://i.i-sgcm.com/cars_used/202108/1021144_small.jpg
+11900,3 1.6A SP Luxury (COE till 09/2022),Mazda,10650,21-Sep-2007,Sedan,90000,https://i.i-sgcm.com/cars_used/202108/1021140_small.jpg
+17488,Corolla Altis 1.6A (COE till 10/2023),Toyota,7840,30-Dec-2008,Sedan,160000,https://i.i-sgcm.com/cars_used/202107/1018609_small.jpg
+59800,Sienta 1.5A X,Toyota,10110,30-Sep-2016,MPV,80000,https://i.i-sgcm.com/cars_used/202107/1016812_small.jpg
+46800,Jazz 1.3A,Honda,9540,06-Jan-2016,Hatchback,77796,https://i.i-sgcm.com/cars_used/202106/1006700_small.jpg
+66800,Camry 2.0A (New 10-yr COE),Toyota,6680,29-Jun-2011,Luxury,125385,https://i.i-sgcm.com/cars_used/202104/988833_small.jpg
+34800,Scirocco 1.4A TSI (COE till 07/2025),Volkswagen,8740,13-Sep-2010,Sports,137077,https://i.i-sgcm.com/cars_used/202108/1021141_small.jpg
+52800,Vezel 1.5A X,Honda,10590,25-Feb-2016,SUV,77955,https://i.i-sgcm.com/cars_used/202108/1021053_small.jpg
+53777,Grand Scenic Diesel 1.5A dCi Sunroof,Renault,10380,11-Dec-2015,MPV,99000,https://i.i-sgcm.com/cars_used/202107/1014323_small.jpg
+60777,5008 Diesel 1.6A BlueHDi EAT6,Peugeot,9350,21-Apr-2017,MPV,72000,https://i.i-sgcm.com/cars_used/202106/1009698_small.jpg
