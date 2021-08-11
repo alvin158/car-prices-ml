@@ -1,6 +1,7 @@
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle
+import coe
 
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
@@ -35,6 +36,18 @@ def predict_api():
 
     output = round(prediction[0])
     return jsonify(output)
+
+
+@app.route('/coe_title', methods=['GET'])
+def get_coe_title():
+    data = coe.coe_title_json
+    return data
+
+
+@app.route('/coe_prices', methods=['GET'])
+def get_coe_prices():
+    data = coe.coe_prices_json
+    return data
 
 
 if __name__ == "__main__":
