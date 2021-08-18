@@ -42,7 +42,7 @@ data["Premium"] = premium
 
 
 def coe_prices():
-    coe_prices_json = data.to_json(orient="columns")
+    coe_prices_json = data.to_json(orient="records")
     return coe_prices_json
 
 
@@ -51,5 +51,11 @@ data2["Title"] = title
 
 
 def coe_title():
-    coe_title_json = data2.to_json(orient="columns")
+    coe_title_json = data2.to_json(orient="index")
     return coe_title_json
+
+
+def coe_test():
+    firstRow = data.iloc[0:1]
+    coe_price_json = firstRow.to_json(orient="index")
+    return coe_price_json

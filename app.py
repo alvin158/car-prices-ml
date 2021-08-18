@@ -1,7 +1,15 @@
 import numpy as np
 from flask import Flask, request, jsonify, render_template
+import py_eureka_client.eureka_client as eureka_client
+import pandas as pd
 import pickle
 import coe
+
+rest_port = 8050
+eureka_client.init(eureka_server="http://localhost:8761/eureka",
+                   app_name="car_prices_ml_flask",
+                   instance_port=rest_port)
+
 
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
@@ -40,14 +48,20 @@ def predict_api():
 
 @app.route('/coe_title', methods=['GET'])
 def get_coe_title():
-    data = coe.coe_title_json
-    return data
+    data = coe.coe_title()
+    return str(data)
 
 
 @app.route('/coe_prices', methods=['GET'])
 def get_coe_prices():
-    data = coe.coe_prices_json
-    return data
+    data = coe.coe_prices()
+    return str(data)
+
+
+@app.route('/coe_test', methods=['GET'])
+def get_coe_test():
+    data = coe.coe_test()
+    return str(data)
 
 
 if __name__ == "__main__":
