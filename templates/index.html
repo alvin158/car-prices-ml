@@ -14,12 +14,11 @@
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
-    	<input type="text" name="depreciation" placeholder="Depreciation" required="required" />
       <input type="text" name="mileage" placeholder="Mileage" required="required" />
-		  <input type="text" name="age" placeholder="Age" required="required" />
-      <input type="text" name="car_model" placeholder="Car Model" required="required" />
+		  <input type="text" name="year" placeholder="Year" />
       <input type="text" name="brand" placeholder="Brand" required="required" />
       <input type="text" name="category" placeholder="Category" required="required" />
+      <input type="text" name="engine capacity" placeholder="Engine capacity" />
         <button type="submit">Predict</button>
     </form>
 
